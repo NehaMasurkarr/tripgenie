@@ -1,0 +1,3042 @@
+[
+  {
+    "review_key": "coorg (kodagu) | karnataka",
+    "left_id": 8,
+    "right_id": 53,
+    "differing_field_count": 40,
+    "differences": {
+      "accommodation_types": {
+        "8": [
+          "Homestays",
+          "Resorts",
+          "Guesthouses"
+        ],
+        "53": [
+          "Estate homestays",
+          "Resorts in plantations",
+          "Hotels in Madikeri town"
+        ]
+      },
+      "activities_available": {
+        "8": [
+          "Plantation walks",
+          "Short treks",
+          "Elephant interaction (check ethics)",
+          "Scooter/jeep tours"
+        ],
+        "53": [
+          "Coffee estate tours and tastings",
+          "Plantation walks and birding",
+          "Short treks and viewpoints",
+          "River activities near Dubare (seasonal, regulated)"
+        ]
+      },
+      "atm_availability": {
+        "8": "In main towns like Madikeri and Virajpet.",
+        "53": "ATMs in main towns; limited in remote villages."
+      },
+      "average_temperature": {
+        "8": {
+          "winter": "14-26°C",
+          "summer": "20-32°C",
+          "monsoon": "18-26°C"
+        },
+        "53": {
+          "winter": "12-26°C",
+          "summer": "18-32°C",
+          "monsoon": "18-24°C"
+        }
+      },
+      "avoid_seasons": {
+        "8": [
+          "Peak monsoon for trekking (slippery)"
+        ],
+        "53": [
+          "Hottest pre-monsoon days for mid-day outings; peak heavy-rain spells if you dislike constant showers.[web:240]"
+        ]
+      },
+      "best_seasons": {
+        "8": [
+          "Winter",
+          "Post-Monsoon"
+        ],
+        "53": [
+          "Post-monsoon to winter (October–February) for clear views; monsoon for lush greenery if okay with rain.[web:240]"
+        ]
+      },
+      "budget_category": {
+        "8": {
+          "accommodation_range": [
+            800,
+            1500
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            200,
+            400
+          ],
+          "local_transport_range": [
+            200,
+            400
+          ],
+          "total_daily_range": [
+            1450,
+            2800
+          ]
+        },
+        "53": {
+          "accommodation_range": [
+            800,
+            1800
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            300,
+            700
+          ],
+          "local_transport_range": [
+            300,
+            700
+          ],
+          "total_daily_range": [
+            1650,
+            3700
+          ]
+        }
+      },
+      "coordinates": {
+        "8": {
+          "latitude": 12.3375,
+          "longitude": 75.8069
+        },
+        "53": {
+          "latitude": 12.42,
+          "longitude": 75.74
+        }
+      },
+      "data_sources": {
+        "8": [
+          "web:177",
+          "web:182"
+        ],
+        "53": [
+          "web:239",
+          "web:240",
+          "web:242"
+        ]
+      },
+      "festivals_events": {
+        "8": "Kailpodh, Puthari harvest festival.",
+        "53": "Local Kodava festivals, Cauvery-related rituals and coffee harvest periods."
+      },
+      "food_scene": {
+        "8": "Coorgi cuisine, South Indian meals, and homely food at homestays.",
+        "53": "Kodava cuisine in some homestays plus Karnataka and multi-cuisine options; strong filter coffee culture."
+      },
+      "hidden_gems": {
+        "8": [
+          "Smaller private waterfalls (with permission)",
+          "Interior village trails"
+        ],
+        "53": [
+          "Smaller estates offering owner-led tours like Hematala, Karagunda and Mercara Gold.[web:239]",
+          "Less-crowded viewpoints away from main Madikeri town"
+        ]
+      },
+      "ideal_for": {
+        "8": [
+          "Families",
+          "Couples",
+          "Nature_lovers"
+        ],
+        "53": [
+          "Coffee_lovers",
+          "Families",
+          "Couples",
+          "Nature_enthusiasts"
+        ]
+      },
+      "ideal_for_why": {
+        "8": {
+          "Nature_lovers": "Green hills, waterfalls and estate stays.",
+          "Families": "Easy walks, scenic viewpoints and relaxed town."
+        },
+        "53": {
+          "Coffee_lovers": "Estate stays and detailed tours at estates like Mercara Gold, Tata Coffee and others.[web:239]",
+          "Nature_enthusiasts": "Misty hills, forests and abundant birdlife.[web:242]"
+        }
+      },
+      "internet_connectivity": {
+        "8": "Good in towns; moderate in estates.",
+        "53": "Good in and around Madikeri; mixed in deeper estate belts."
+      },
+      "language_spoken": {
+        "8": [
+          "Kannada",
+          "Kodava Takk",
+          "Hindi (basic)",
+          "English in tourism)"
+        ],
+        "53": [
+          "Kannada",
+          "Kodava Takk",
+          "English (tourism)",
+          "Hindi (some)"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "8": [
+          "Pandi curry (pork)",
+          "Kadumbuttu (rice dumplings)",
+          "Noolputtu"
+        ],
+        "53": [
+          "Pandi (pork) curry for non-vegetarians",
+          "Akki roti and Kadambuttu (rice-based dishes)",
+          "Traditional Coorg-style chicken and bamboo shoot preparations"
+        ]
+      },
+      "local_culture": {
+        "8": "Distinct Kodava warrior culture with unique festivals and dress.",
+        "53": "Kodava warrior-farmer culture with unique festivals and customs."
+      },
+      "local_customs": {
+        "8": "Respect private estate boundaries; ask before entering plantation trails.",
+        "53": "Respect estate rules; ask before entering fields or photographing workers."
+      },
+      "luxury_category": {
+        "8": {
+          "accommodation_range": [
+            5000,
+            15000
+          ],
+          "food_range": [
+            800,
+            2000
+          ],
+          "activities_range": [
+            800,
+            1600
+          ],
+          "local_transport_range": [
+            400,
+            800
+          ],
+          "total_daily_range": [
+            7000,
+            19400
+          ]
+        },
+        "53": {
+          "accommodation_range": [
+            4000,
+            15000
+          ],
+          "food_range": [
+            800,
+            2000
+          ],
+          "activities_range": [
+            1200,
+            2500
+          ],
+          "local_transport_range": [
+            600,
+            1200
+          ],
+          "total_daily_range": [
+            6600,
+            20700
+          ]
+        }
+      },
+      "maximum_days": {
+        "8": 4,
+        "53": 5
+      },
+      "mid_range_category": {
+        "8": {
+          "accommodation_range": [
+            1500,
+            3000
+          ],
+          "food_range": [
+            400,
+            800
+          ],
+          "activities_range": [
+            400,
+            800
+          ],
+          "local_transport_range": [
+            300,
+            600
+          ],
+          "total_daily_range": [
+            2600,
+            5200
+          ]
+        },
+        "53": {
+          "accommodation_range": [
+            1800,
+            4000
+          ],
+          "food_range": [
+            400,
+            900
+          ],
+          "activities_range": [
+            700,
+            1400
+          ],
+          "local_transport_range": [
+            400,
+            900
+          ],
+          "total_daily_range": [
+            3300,
+            7200
+          ]
+        }
+      },
+      "nearest_airport": {
+        "8": {
+          "name": "Kannur / Mangalore (via road)",
+          "distance_km": 120
+        },
+        "53": {
+          "name": "Mangaluru / Kannur (regional) / Bengaluru (farther)",
+          "distance_km": 140
+        }
+      },
+      "nearest_major_city": {
+        "8": {
+          "name": "Bengaluru",
+          "distance_km": 260
+        },
+        "53": {
+          "name": "Mysuru",
+          "distance_km": 115
+        }
+      },
+      "nearest_railway_station": {
+        "8": {
+          "name": "Mysuru / Hassan (by road connections)",
+          "distance_km": 100
+        },
+        "53": {
+          "name": "Mysuru / Hassan",
+          "distance_km": 95
+        }
+      },
+      "off_season": {
+        "8": "June-August (heavier rains)",
+        "53": "Some monsoon weeks and shoulder periods"
+      },
+      "peak_tourist_season": {
+        "8": "October-February",
+        "53": "October–January long weekends and holidays"
+      },
+      "popularity_score": {
+        "8": 7,
+        "53": 8
+      },
+      "primary_attractions": {
+        "8": [
+          "Coffee plantations",
+          "Abbey Falls",
+          "Raja's Seat",
+          "Dubare Elephant Camp",
+          "Talakaveri"
+        ],
+        "53": [
+          "Coffee and spice plantations",
+          "Abbey Falls (seasonal strength)",
+          "Raja’s Seat viewpoint in Madikeri",
+          "Dubare elephant camp (nearby)"
+        ]
+      },
+      "rainfall_pattern": {
+        "8": "Heavy monsoon; very green afterwards.",
+        "53": "Heavy southwest monsoon leading to lush valleys and full waterfalls.[web:240]"
+      },
+      "recent_developments": {
+        "8": "More homestays and eco-resorts have opened across Kodagu.",
+        "53": "More upscale villa stays and curated estate experiences; monsoon tourism positioned as a niche.[web:239][web:240]"
+      },
+      "road_connectivity": {
+        "8": "Good state highways; hilly roads but well-travelled.",
+        "53": "Hill roads from Mysuru, Mangaluru and Bengaluru with frequent buses and cabs; main towns are Madikeri and Virajpet.[web:239][web:242]"
+      },
+      "safety_notes": {
+        "8": "Generally safe hill region; be cautious on wet, curvy roads.",
+        "53": "Generally safe; drive carefully on ghats and avoid venturing into dense plantations alone at night."
+      },
+      "shopping_highlights": {
+        "8": [
+          "Coffee",
+          "Spices",
+          "Homemade chocolates"
+        ],
+        "53": [
+          "Locally grown coffee beans and powder",
+          "Spices and homemade chocolates",
+          "Coorg honey and pickles"
+        ]
+      },
+      "special_considerations": {
+        "8": "Leeches on forest trails in monsoon; winding roads may affect motion-sensitive travellers.",
+        "53": "Estate roads can be narrow; leeches present on forest trails in monsoon; book experiences directly with estates where possible."
+      },
+      "suggested_itinerary": {
+        "8": "Day 1: Madikeri sights and Raja's Seat; Day 2: Abbey Falls and Dubare; Day 3: Coffee estate experience.",
+        "53": "Day 1: Arrive, estate stay and short walk; Day 2: Coffee tours and Abbey Falls/Raja’s Seat; Day 3+: More estate experiences, Dubare side-trip or simply relax.[web:239][web:242]"
+      },
+      "sustainability_notes": {
+        "8": "Support low-impact estate stays and avoid litter on nature trails.",
+        "53": "Plantation ecosystems rely on shade trees and biodiversity; support estates using sustainable practices and minimise plastic."
+      },
+      "trip_types": {
+        "8": [
+          "Nature",
+          "Coffee_estates",
+          "Family",
+          "Short_break"
+        ],
+        "53": [
+          "Coffee_estates",
+          "Hill_station",
+          "Nature",
+          "Family",
+          "Honeymoon"
+        ]
+      },
+      "unique_experiences": {
+        "8": "Staying in coffee estate homestays and misty hills.",
+        "53": "Staying amid coffee estates, waking to misty Western Ghats views and learning about coffee from bean to cup.[web:239][web:242]"
+      },
+      "user_reviews_summary": {
+        "8": "Popular long-weekend destination from Bengaluru; peaceful and green.",
+        "53": "Frequently rated as one of South India’s favourite hill/plantation getaways for its greenery and coffee culture."
+      }
+    }
+  },
+  {
+    "review_key": "gokarna | karnataka",
+    "left_id": 25,
+    "right_id": 71,
+    "differing_field_count": 38,
+    "differences": {
+      "accommodation_types": {
+        "25": [
+          "Guesthouses",
+          "Beach shacks (seasonal)",
+          "Simple hotels",
+          "Yoga/retreat stays"
+        ],
+        "71": [
+          "Beach shacks",
+          "Homestays",
+          "Simple guesthouses",
+          "Boutique retreats"
+        ]
+      },
+      "activities_available": {
+        "25": [
+          "Beach hopping and trekking along coast",
+          "Swimming and sunbathing (conditions permitting)",
+          "Temple visits",
+          "Cafe hopping and yoga retreats"
+        ],
+        "71": [
+          "Beach-hopping and short coastal treks",
+          "Yoga and meditation stays",
+          "Cafe-hopping and simple nightlife"
+        ]
+      },
+      "atm_availability": {
+        "25": "ATMs in Gokarna town; carry some cash to beaches.",
+        "71": "ATMs in town; limited options near remote beaches."
+      },
+      "average_temperature": {
+        "25": {
+          "winter": "20-32°C",
+          "summer": "26-35°C",
+          "monsoon": "24-30°C"
+        },
+        "71": {
+          "winter": "22-30°C",
+          "summer": "26-34°C",
+          "monsoon": "24-30°C"
+        }
+      },
+      "avoid_seasons": {
+        "25": [
+          "Peak monsoon sea conditions; some beach shacks close off-season"
+        ],
+        "71": [
+          "Peak monsoon for rough seas and many shacks closing; May heat can be intense mid-day.[web:259]"
+        ]
+      },
+      "best_seasons": {
+        "25": [
+          "Post-monsoon to early summer (October–March)"
+        ],
+        "71": [
+          "November–March for pleasant weather and calmer seas.[web:254][web:259]"
+        ]
+      },
+      "budget_category": {
+        "25": {
+          "accommodation_range": [
+            600,
+            1300
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            200,
+            400
+          ],
+          "local_transport_range": [
+            150,
+            300
+          ],
+          "total_daily_range": [
+            1200,
+            2500
+          ]
+        },
+        "71": {
+          "accommodation_range": [
+            700,
+            1800
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            200,
+            600
+          ],
+          "local_transport_range": [
+            200,
+            500
+          ],
+          "total_daily_range": [
+            1350,
+            3400
+          ]
+        }
+      },
+      "coordinates": {
+        "25": {
+          "latitude": 14.549,
+          "longitude": 74.318
+        },
+        "71": {
+          "latitude": 14.55,
+          "longitude": 74.32
+        }
+      },
+      "data_sources": {
+        "25": [
+          "web:177",
+          "web:182"
+        ],
+        "71": [
+          "web:254",
+          "web:256",
+          "web:259"
+        ]
+      },
+      "festivals_events": {
+        "25": "Shivaratri and other temple festivals draw large pilgrim crowds.",
+        "71": "Religious festivals at Mahabaleshwar Temple and local temple fairs; New Year sees more backpacker gatherings."
+      },
+      "food_scene": {
+        "25": "Mix of coastal Karnataka food and international backpacker menus at beach cafes.",
+        "71": "Mix of coastal Karnataka, North Indian and continental cafes with many vegetarian-friendly options.[web:254]"
+      },
+      "hidden_gems": {
+        "25": [
+          "Cliff-top viewpoints between Om and Half Moon beaches",
+          "Small, less-crowded stretches of Kudle and Om"
+        ],
+        "71": [
+          "Early-morning walks between lesser-used coves",
+          "Simple village homestays just behind the main beaches"
+        ]
+      },
+      "ideal_for": {
+        "25": [
+          "Backpackers",
+          "Budget_beach_travellers",
+          "Pilgrims_who_enjoy_beaches",
+          "Yoga_retreat_participants"
+        ],
+        "71": [
+          "Solo_travellers",
+          "Budget_groups",
+          "Yoga_seekers",
+          "Quiet_beach_lovers"
+        ]
+      },
+      "ideal_for_why": {
+        "25": {
+          "Backpackers": "Affordable stays, chilled beach cafes and small community vibe.",
+          "Pilgrims_who_enjoy_beaches": "Mahabaleshwar Temple plus easy access to multiple beaches."
+        },
+        "71": {
+          "Solo_travellers": "Homely guesthouses, easy social vibe and safe small-town feel.[web:254]",
+          "Quiet_beach_lovers": "Simpler, calmer beaches than mainstream Goa, with more space for **slow** mornings.[web:254][web:256]"
+        }
+      },
+      "internet_connectivity": {
+        "25": "Decent 4G in town and main beaches; weaker in more remote coves.",
+        "71": "Decent 4G in town and main beaches; some homestays promote workation stays with Wi‑Fi."
+      },
+      "language_spoken": {
+        "25": [
+          "Kannada",
+          "Konkani (some)",
+          "Hindi",
+          "English in tourism)"
+        ],
+        "71": [
+          "Kannada",
+          "Konkani",
+          "Hindi",
+          "English in tourism.[web:254]"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "25": [
+          "Local fish thali (for non-vegetarians)",
+          "South Indian tiffin",
+          "Simple coastal curries"
+        ],
+        "71": [
+          "Fish thali at local eateries",
+          "Mangalorean-style curries",
+          "Fresh tender coconut on the beach"
+        ]
+      },
+      "local_culture": {
+        "25": "Temple town with strong religious traditions coexisting with beach tourism.",
+        "71": "Pilgrimage town with a simple coastal lifestyle; visitors share space with devotees and fishing communities."
+      },
+      "local_customs": {
+        "25": "Dress modestly in and around temple zones; different culture at beaches vs town.",
+        "71": "Dress modestly inside town and temples; remove footwear where required."
+      },
+      "luxury_category": {
+        "25": {
+          "accommodation_range": [
+            2500,
+            8000
+          ],
+          "food_range": [
+            600,
+            1500
+          ],
+          "activities_range": [
+            500,
+            1200
+          ],
+          "local_transport_range": [
+            300,
+            700
+          ],
+          "total_daily_range": [
+            3900,
+            11400
+          ]
+        },
+        "71": {
+          "accommodation_range": [
+            4000,
+            12000
+          ],
+          "food_range": [
+            800,
+            2000
+          ],
+          "activities_range": [
+            800,
+            2000
+          ],
+          "local_transport_range": [
+            400,
+            900
+          ],
+          "total_daily_range": [
+            6000,
+            16900
+          ]
+        }
+      },
+      "mid_range_category": {
+        "25": {
+          "accommodation_range": [
+            1300,
+            2500
+          ],
+          "food_range": [
+            400,
+            800
+          ],
+          "activities_range": [
+            300,
+            600
+          ],
+          "local_transport_range": [
+            250,
+            500
+          ],
+          "total_daily_range": [
+            2250,
+            4400
+          ]
+        },
+        "71": {
+          "accommodation_range": [
+            1800,
+            4000
+          ],
+          "food_range": [
+            400,
+            900
+          ],
+          "activities_range": [
+            400,
+            1000
+          ],
+          "local_transport_range": [
+            300,
+            700
+          ],
+          "total_daily_range": [
+            2900,
+            6600
+          ]
+        }
+      },
+      "nearest_airport": {
+        "25": {
+          "name": "Goa (Dabolim/MOPA) / Hubballi",
+          "distance_km": 140
+        },
+        "71": {
+          "name": "Dabolim / MOPA (Goa) Airport",
+          "distance_km": 145
+        }
+      },
+      "nearest_major_city": {
+        "25": {
+          "name": "Karwar",
+          "distance_km": 60
+        },
+        "71": {
+          "name": "Goa (Panaji)",
+          "distance_km": 150
+        }
+      },
+      "off_season": {
+        "25": "Monsoon months and shoulder weeks with fewer shacks open",
+        "71": "Monsoon and exam months with many budget places discounted"
+      },
+      "peak_tourist_season": {
+        "25": "December–February and long weekends",
+        "71": "December–February and long weekends.[web:254]"
+      },
+      "popularity_score": {
+        "25": 6,
+        "71": 8
+      },
+      "primary_attractions": {
+        "25": [
+          "Gokarna Main Beach",
+          "Kudle Beach",
+          "Om Beach",
+          "Half Moon and Paradise beaches (via treks/boat)",
+          "Mahabaleshwar Temple"
+        ],
+        "71": [
+          "Kudle, Om, Half Moon and Paradise Beaches",
+          "Mahabaleshwar Temple",
+          "Cliffside trails between coves"
+        ]
+      },
+      "rainfall_pattern": {
+        "25": "Heavy coastal rainfall June–September.",
+        "71": "Strong Konkan monsoon with frequent showers and rough surf.[web:254]"
+      },
+      "recent_developments": {
+        "25": "Gradual increase in mid-range resorts and organised yoga retreats.",
+        "71": "More homestays and yoga-focused retreats while still retaining small-town character.[web:254]"
+      },
+      "road_connectivity": {
+        "25": "Coastal highways and local roads connect Gokarna to Goa, Karwar and other Konkan towns.",
+        "71": "Well-connected by coastal highways and buses from Goa, Mangaluru and Bengaluru; last stretch to beaches by auto/taxi or on foot.[web:254][web:256]"
+      },
+      "safety_notes": {
+        "25": "Small town generally safe; avoid deserted beach walks very late at night.",
+        "71": "Generally safe; watch currents when swimming and avoid isolated areas late at night."
+      },
+      "shopping_highlights": {
+        "25": [
+          "Bead jewellery",
+          "Hippie-style clothes",
+          "Religious items"
+        ],
+        "71": [
+          "Beachwear and hippie clothing",
+          "Simple jewellery and souvenirs",
+          "Local snacks and incense"
+        ]
+      },
+      "special_considerations": {
+        "25": "Sea conditions can be rough; caution while swimming; some trails between beaches involve steep sections.",
+        "71": "Respect temple rules and local culture; alcohol and loud parties are less accepted in town compared to some beaches."
+      },
+      "suggested_itinerary": {
+        "25": "Day 1: Town and Gokarna Main Beach; Day 2: Kudle and Om Beach; Day 3: Trek or boat to Half Moon and Paradise beaches.",
+        "71": "Day 1: Town and Kudle/Om Beaches; Day 2: Cliff trek to Half Moon/Paradise; Day 3+: Yoga sessions or relaxed repeat of favourite spots.[web:254][web:256]"
+      },
+      "sustainability_notes": {
+        "25": "Beach litter is an increasing issue; use refills, avoid single-use plastic and support clean-up friendly cafes.",
+        "71": "Be mindful of waste on fragile coves; many shacks struggle with garbage—carry your own bottle and avoid single-use plastics."
+      },
+      "trip_types": {
+        "25": [
+          "Beach",
+          "Backpacker",
+          "Pilgrimage",
+          "Offbeat"
+        ],
+        "71": [
+          "Beach",
+          "Spiritual",
+          "Backpacker",
+          "Slow_travel"
+        ]
+      },
+      "unique_experiences": {
+        "25": "Quieter alternative to Goa with mix of temple town and backpacker beach culture.",
+        "71": "Laid-back temple town with a string of coves where homestays and shacks sit just off the sand, offering a quieter alternative to Goa.[web:254][web:256]"
+      },
+      "user_reviews_summary": {
+        "25": "Considered more peaceful than Goa, with basic but charming beach stays and a temple-town core.",
+        "71": "Frequently described as “Goa without the crowds,” valued for chilled vibes, simple food and cliff walks.[web:254][web:256]"
+      }
+    }
+  },
+  {
+    "review_key": "havelock island (swaraj dweep) | andaman and nicobar islands",
+    "left_id": 31,
+    "right_id": 61,
+    "differing_field_count": 41,
+    "differences": {
+      "accommodation_types": {
+        "31": [
+          "Beach resorts (budget to luxury)",
+          "Island hotels",
+          "Eco-stays"
+        ],
+        "61": [
+          "Beach resorts (budget to luxury)",
+          "Boutique island hotels",
+          "Guesthouses"
+        ]
+      },
+      "activities_available": {
+        "31": [
+          "Beach walks and sunset at Radhanagar",
+          "Snorkelling and scuba diving",
+          "Sea walking and other water sports (Elephant Beach)",
+          "Cycling or scooty rides"
+        ],
+        "61": [
+          "Scuba diving and snorkelling",
+          "Sea walks and glass-bottom boat rides",
+          "Kayaking and stand-up paddling",
+          "Beach walks and cycling"
+        ]
+      },
+      "atm_availability": {
+        "31": "Very limited; advisable to carry cash from Port Blair.[web:217]",
+        "61": "Limited; withdraw cash in Port Blair and carry cards accepted by many resorts.[web:244]"
+      },
+      "average_temperature": {
+        "31": {
+          "winter": "23-30°C",
+          "summer": "26-33°C",
+          "monsoon": "24-30°C"
+        },
+        "61": {
+          "winter": "24-30°C",
+          "summer": "26-33°C",
+          "monsoon": "24-30°C"
+        }
+      },
+      "avoid_seasons": {
+        "31": [
+          "Peak monsoon and days of rough sea when ferries and water activities may be disrupted.[web:217][web:219]"
+        ],
+        "61": [
+          "Peak monsoon and rough-sea periods when ferries may be disrupted and many activities shut.[web:244]"
+        ]
+      },
+      "best_seasons": {
+        "31": [
+          "Winter",
+          "Calm sea months from November to April"
+        ],
+        "61": [
+          "November–April with calm seas and good visibility; shoulder months around October and early May can also work.[web:244][web:245][web:250]"
+        ]
+      },
+      "budget_category": {
+        "31": {
+          "accommodation_range": [
+            1200,
+            2500
+          ],
+          "food_range": [
+            300,
+            700
+          ],
+          "activities_range": [
+            500,
+            1500
+          ],
+          "local_transport_range": [
+            300,
+            800
+          ],
+          "total_daily_range": [
+            2300,
+            5500
+          ]
+        },
+        "61": {
+          "accommodation_range": [
+            2000,
+            4500
+          ],
+          "food_range": [
+            500,
+            1200
+          ],
+          "activities_range": [
+            1500,
+            3500
+          ],
+          "local_transport_range": [
+            600,
+            1500
+          ],
+          "total_daily_range": [
+            4600,
+            10700
+          ]
+        }
+      },
+      "coordinates": {
+        "31": {
+          "latitude": 11.968,
+          "longitude": 92.987
+        },
+        "61": {
+          "latitude": 11.97,
+          "longitude": 92.99
+        }
+      },
+      "data_sources": {
+        "31": [
+          "web:215",
+          "web:216",
+          "web:217",
+          "web:218",
+          "web:219",
+          "web:222"
+        ],
+        "61": [
+          "web:244",
+          "web:245",
+          "web:246",
+          "web:247",
+          "web:250"
+        ]
+      },
+      "festivals_events": {
+        "31": "Standard Indian festivals and occasional island-level tourism events.",
+        "61": "Local versions of mainland festivals; tourism events peak in high season."
+      },
+      "food_scene": {
+        "31": "Resort and beachside restaurants with Indian and international menus; fresh seafood popular.[web:217]",
+        "61": "Seafood-centric menus plus Indian and some continental cafes; resort dining is common.[web:244][web:245]"
+      },
+      "hidden_gems": {
+        "31": [
+          "Neil’s Cove lagoon at the far end of Radhanagar Beach.[web:216]",
+          "Quieter stretches of Kalapathar Beach during early mornings"
+        ],
+        "61": [
+          "Quieter stretches of Radhanagar away from main entry",
+          "Lesser-used village lanes ideal for cycling"
+        ]
+      },
+      "ideal_for": {
+        "31": [
+          "Honeymooners",
+          "Families",
+          "Water_sports_lovers",
+          "Beach_relaxation_seekers"
+        ],
+        "61": [
+          "Honeymooners",
+          "Families",
+          "Divers_and_snorkellers",
+          "Beach_relaxation"
+        ]
+      },
+      "ideal_for_why": {
+        "31": {
+          "Honeymooners": "Top-rated beaches, scenic sunsets and many resorts in quiet settings.[web:215][web:216]",
+          "Water_sports_lovers": "Popular diving, snorkelling and sea-walk destination of Andamans.[web:217][web:218]"
+        },
+        "61": {
+          "Honeymooners": "High-end resorts and romantic beaches like Radhanagar.[web:245][web:250]",
+          "Divers_and_snorkellers": "Beginner-friendly reefs near Elephant Beach and Nemo Reef.[web:246][web:247][web:250]"
+        }
+      },
+      "internet_connectivity": {
+        "31": "Improving 4G but still patchy; many resorts provide Wi‑Fi with varying speeds.[web:217]",
+        "61": "Improving but still patchy; many visitors treat it as partial digital detox.[web:244][web:245]"
+      },
+      "language_spoken": {
+        "31": [
+          "Hindi",
+          "Bengali",
+          "Tamil",
+          "English (tourism)"
+        ],
+        "61": [
+          "Hindi",
+          "Bengali",
+          "Tamil",
+          "English (widely in tourism).[web:244]"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "31": [
+          "Fresh grilled seafood",
+          "Coconut-based curries",
+          "Island-style Indian and continental dishes"
+        ],
+        "61": [
+          "Fresh grilled fish and seafood",
+          "Coconut-based curries",
+          "Island-style tandoori fish"
+        ]
+      },
+      "local_culture": {
+        "31": "Mixed settler communities with tourism-driven economy; strong focus on marine conservation.",
+        "61": "Settler communities with mixed mainland Indian backgrounds; island economy heavily tourism-dependent.[web:244]"
+      },
+      "local_customs": {
+        "31": "Dress codes relaxed on beaches; avoid alcohol or littering on public beaches.",
+        "61": "Respect beach codes, avoid alcohol on public beaches in sensitive areas, and adhere to ‘no-touch’ rules for corals."
+      },
+      "luxury_category": {
+        "31": {
+          "accommodation_range": [
+            6000,
+            20000
+          ],
+          "food_range": [
+            1000,
+            2500
+          ],
+          "activities_range": [
+            1500,
+            4000
+          ],
+          "local_transport_range": [
+            800,
+            1500
+          ],
+          "total_daily_range": [
+            9300,
+            28000
+          ]
+        },
+        "61": {
+          "accommodation_range": [
+            9000,
+            25000
+          ],
+          "food_range": [
+            1500,
+            3000
+          ],
+          "activities_range": [
+            4000,
+            7000
+          ],
+          "local_transport_range": [
+            1500,
+            3500
+          ],
+          "total_daily_range": [
+            16000,
+            38500
+          ]
+        }
+      },
+      "mid_range_category": {
+        "31": {
+          "accommodation_range": [
+            2500,
+            6000
+          ],
+          "food_range": [
+            600,
+            1500
+          ],
+          "activities_range": [
+            800,
+            2000
+          ],
+          "local_transport_range": [
+            500,
+            1200
+          ],
+          "total_daily_range": [
+            4400,
+            10700
+          ]
+        },
+        "61": {
+          "accommodation_range": [
+            4500,
+            9000
+          ],
+          "food_range": [
+            900,
+            1800
+          ],
+          "activities_range": [
+            2500,
+            5000
+          ],
+          "local_transport_range": [
+            1000,
+            2500
+          ],
+          "total_daily_range": [
+            8900,
+            18300
+          ]
+        }
+      },
+      "mobile_network": {
+        "31": [
+          "BSNL",
+          "Jio and Airtel in some pockets"
+        ],
+        "61": [
+          "BSNL primary; Jio/Airtel limited and improving in parts.[web:244]"
+        ]
+      },
+      "nearest_airport": {
+        "31": {
+          "name": "Port Blair (Veer Savarkar International Airport)",
+          "distance_km": 60
+        },
+        "61": {
+          "name": "Port Blair (Veer Savarkar International Airport)",
+          "distance_km": 57
+        }
+      },
+      "nearest_major_city": {
+        "31": {
+          "name": "Port Blair",
+          "distance_km": 60
+        },
+        "61": {
+          "name": "Port Blair",
+          "distance_km": 57
+        }
+      },
+      "nearest_railway_station": {
+        "31": {
+          "name": "None (island; access via ferry from Port Blair)",
+          "distance_km": null
+        },
+        "61": {
+          "name": "None (islands accessible only by air/sea)",
+          "distance_km": null
+        }
+      },
+      "off_season": {
+        "31": "Monsoon (June–September) and some shoulder weeks",
+        "61": "Low monsoon months and exam/off-peak periods"
+      },
+      "peak_tourist_season": {
+        "31": "December–March and holiday periods",
+        "61": "December–March and around New Year/long weekends.[web:245][web:246]"
+      },
+      "permits_details": {
+        "31": "Not required",
+        "61": "Standard Andaman entry formalities via Port Blair; additional restricted-area permits not usually needed for Indians on Havelock itself.[web:244]"
+      },
+      "permits_required": {
+        "31": false,
+        "61": true
+      },
+      "primary_attractions": {
+        "31": [
+          "Radhanagar Beach (Beach No. 7)",
+          "Elephant Beach (snorkelling/activities)",
+          "Kalapathar Beach",
+          "Neil’s Cove (near Radhanagar)"
+        ],
+        "61": [
+          "Radhanagar Beach (Beach No. 7)",
+          "Kalapathar Beach sunrise",
+          "Elephant Beach for snorkelling and water sports",
+          "Coral reefs and dive sites"
+        ]
+      },
+      "rainfall_pattern": {
+        "31": "Tropical island with heavy monsoon showers; humidity high year-round.[web:217]",
+        "61": "Tropical maritime climate with heavy spells during southwest and retreating monsoons.[web:244]"
+      },
+      "recent_developments": {
+        "31": "More mid-range and upscale resorts, better high-speed ferries and increased focus on sustainable tourism.",
+        "61": "More organised ferry schedules, new mid-range and upscale resorts, and tighter regulations on reef-protection activities.[web:244][web:245][web:247]"
+      },
+      "road_connectivity": {
+        "31": "Internal island roads connect jetty, Radhanagar Beach and other points; main access is by ship/ferry from Port Blair.[web:216][web:217][web:222]",
+        "61": "Internal island roads for local travel by cabs, autos, bikes and cycles; main access is ferry from Port Blair.[web:244][web:245][web:246][web:247][web:250]"
+      },
+      "safety_notes": {
+        "31": "Tourism infrastructure well-developed; follow lifeguard flags and dive operator safety briefings.",
+        "61": "Very safe; follow lifeguard and operator instructions, and avoid swimming during red-flag sea conditions.[web:244]"
+      },
+      "shopping_highlights": {
+        "31": [
+          "Small souvenir shops",
+          "Shell and handicraft items",
+          "Locally-themed T‑shirts"
+        ],
+        "61": [
+          "Basic souvenirs and T‑shirts",
+          "Shell craft (buy only legally sourced items)",
+          "Local packaged spices and seafood"
+        ]
+      },
+      "special_considerations": {
+        "31": "Ferry tickets between Port Blair and Havelock must be booked in advance in peak season; strict rules on plastic and beach cleanliness.",
+        "61": "Ferries must be pre-booked; some activities depend on tide and weather; strict environmental regulations for waste and coral protection.[web:244][web:247]"
+      },
+      "suggested_itinerary": {
+        "31": "Day 1: Arrival and Kalapathar or nearby beach; Day 2: Radhanagar Beach afternoon till sunset; Day 3: Water sports at Elephant Beach; extra days for diving or relaxing.[web:216][web:217][web:219][web:222]",
+        "61": "Day 1: Arrive and sunset at Radhanagar; Day 2: Elephant Beach snorkelling/diving; Day 3+: Kalapathar sunrise, kayaking and free beach time.[web:245][web:246][web:247][web:250]"
+      },
+      "sustainability_notes": {
+        "31": "Coral and marine life sensitive to disturbance; choose certified dive operators and avoid touching corals or leaving waste.",
+        "61": "Reefs are fragile; always use reef-safe sunscreen, avoid standing on corals and support operators who follow Andaman administration guidelines.[web:244][web:247]"
+      },
+      "trip_types": {
+        "31": [
+          "Beach",
+          "Honeymoon",
+          "Diving",
+          "Family",
+          "Island"
+        ],
+        "61": [
+          "Island",
+          "Beach",
+          "Diving",
+          "Honeymoon",
+          "Family"
+        ]
+      },
+      "unique_experiences": {
+        "31": "White-sand blue-water beaches including Radhanagar, often rated among Asia’s best beaches, with spectacular sunsets.[web:215][web:216][web:219][web:222]",
+        "61": "White-sand beaches with clear teal water and rich reefs, often considered India’s flagship tropical-island experience.[web:244][web:245][web:246][web:247][web:250]"
+      },
+      "user_reviews_summary": {
+        "31": "Frequently described as a highlight of Andaman trips thanks to Radhanagar’s beauty and good mix of relaxation and activities.",
+        "61": "Regularly rated among India’s best island/beach destinations, especially for first-time Andaman trips and soft adventure water sports.[web:246][web:250]"
+      }
+    }
+  },
+  {
+    "review_key": "neil island (shaheed dweep) | andaman and nicobar islands",
+    "left_id": 32,
+    "right_id": 62,
+    "differing_field_count": 42,
+    "differences": {
+      "accommodation_types": {
+        "32": [
+          "Beachside resorts",
+          "Guesthouses",
+          "Eco-cottages"
+        ],
+        "62": [
+          "Small resorts and hotels",
+          "Guesthouses",
+          "Limited boutique stays"
+        ]
+      },
+      "activities_available": {
+        "32": [
+          "Glass-bottom boat rides and snorkelling at Bharatpur.[web:220][web:223]",
+          "Sunset viewing at Laxmanpur Beach.[web:220][web:223]",
+          "Sunrise at Sitapur Beach and cycling around island.[web:220][web:223]",
+          "Casual beach walks and photography"
+        ],
+        "62": [
+          "Snorkelling and boat trips",
+          "Easy cycling around island",
+          "Scuba diving for beginners",
+          "Beach-hopping and sunset watching"
+        ]
+      },
+      "atm_availability": {
+        "32": "Very limited; best to carry cash from Port Blair.",
+        "62": "Very limited; most travellers carry cash from Port Blair.[web:220]"
+      },
+      "average_temperature": {
+        "32": {
+          "winter": "23-30°C",
+          "summer": "26-33°C",
+          "monsoon": "24-30°C"
+        },
+        "62": {
+          "winter": "24-30°C",
+          "summer": "26-33°C",
+          "monsoon": "24-30°C"
+        }
+      },
+      "avoid_seasons": {
+        "32": [
+          "Monsoon spells with rough seas and reduced ferries.[web:220]"
+        ],
+        "62": [
+          "Rough monsoon sea periods that disrupt ferries; some beaches may be unsafe for swimming then.[web:244]"
+        ]
+      },
+      "best_seasons": {
+        "32": [
+          "Winter",
+          "Calm sea months November–April"
+        ],
+        "62": [
+          "November–April for clear seas; can be combined with Havelock in a single itinerary.[web:220][web:245][web:250]"
+        ]
+      },
+      "budget_category": {
+        "32": {
+          "accommodation_range": [
+            1000,
+            2000
+          ],
+          "food_range": [
+            300,
+            600
+          ],
+          "activities_range": [
+            300,
+            700
+          ],
+          "local_transport_range": [
+            200,
+            500
+          ],
+          "total_daily_range": [
+            1800,
+            3800
+          ]
+        },
+        "62": {
+          "accommodation_range": [
+            1500,
+            3500
+          ],
+          "food_range": [
+            400,
+            900
+          ],
+          "activities_range": [
+            1000,
+            2500
+          ],
+          "local_transport_range": [
+            500,
+            1200
+          ],
+          "total_daily_range": [
+            3400,
+            8100
+          ]
+        }
+      },
+      "coordinates": {
+        "32": {
+          "latitude": 11.83,
+          "longitude": 93.05
+        },
+        "62": {
+          "latitude": 11.84,
+          "longitude": 93.05
+        }
+      },
+      "data_sources": {
+        "32": [
+          "web:220",
+          "web:223"
+        ],
+        "62": [
+          "web:220",
+          "web:244",
+          "web:245",
+          "web:247",
+          "web:250"
+        ]
+      },
+      "festivals_events": {
+        "32": "Standard Indian festivals; no very large separate island event.",
+        "62": "No major unique festival; atmosphere is always quiet and village-like."
+      },
+      "food_scene": {
+        "32": "Simple restaurants near beaches serving Indian and some Bengali and seafood dishes.[web:220][web:223]",
+        "62": "Simple island cafes and resort restaurants; seafood and Indian staples dominate.[web:220][web:244]"
+      },
+      "hidden_gems": {
+        "32": [
+          "Quiet interior village roads ideal for cycling.[web:223]",
+          "Less-crowded stretches of Laxmanpur away from main sunset point"
+        ],
+        "62": [
+          "Early-morning, nearly empty Bharatpur shoreline",
+          "Back-road cycle routes through farms and homestays"
+        ]
+      },
+      "ideal_for": {
+        "32": [
+          "Couples",
+          "Families",
+          "Slow_travellers",
+          "Budget_beach_lovers"
+        ],
+        "62": [
+          "Couples",
+          "Slow_travellers",
+          "Snorkelling_beginners",
+          "Quiet_beach_seekers"
+        ]
+      },
+      "ideal_for_why": {
+        "32": {
+          "Slow_travellers": "Unhurried vibe with easy cycling and short distances between spots.[web:220]",
+          "Couples": "Sunrise and sunset beaches with fewer crowds than Havelock."
+        },
+        "62": {
+          "Slow_travellers": "Compact size makes it easy to explore slowly by cycle and on foot.[web:220]",
+          "Snorkelling_beginners": "Gentle, shallow waters at Bharatpur and off nearby reefs.[web:220][web:247]"
+        }
+      },
+      "internet_connectivity": {
+        "32": "Limited 4G; some stays offer Wi‑Fi with variable speeds.",
+        "62": "Even patchier than Havelock; assume low-speed or intermittent connectivity.[web:220][web:244]"
+      },
+      "language_spoken": {
+        "32": [
+          "Hindi",
+          "Bengali",
+          "Tamil",
+          "English (tourism)"
+        ],
+        "62": [
+          "Hindi",
+          "Bengali",
+          "Tamil",
+          "English in tourism.[web:244]"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "32": [
+          "Fresh fish curries",
+          "Bengali-style dishes at Neil Kendra.[web:223]",
+          "Coconut-based sweets and snacks"
+        ],
+        "62": [
+          "Fresh fried fish at small shacks",
+          "Coconut water and simple island curries"
+        ]
+      },
+      "local_culture": {
+        "32": "Fishing and farming-based island communities increasingly oriented to tourism.",
+        "62": "Laid-back island communities engaged in tourism, fishing and small-scale farming.[web:220][web:244]"
+      },
+      "local_customs": {
+        "32": "Modest attire away from beaches; respect fishing zones and local property.",
+        "62": "Modest beachwear away from main tourist zones; courteous interaction with locals."
+      },
+      "luxury_category": {
+        "32": {
+          "accommodation_range": [
+            4500,
+            12000
+          ],
+          "food_range": [
+            800,
+            1800
+          ],
+          "activities_range": [
+            800,
+            2000
+          ],
+          "local_transport_range": [
+            400,
+            900
+          ],
+          "total_daily_range": [
+            6500,
+            16700
+          ]
+        },
+        "62": {
+          "accommodation_range": [
+            7000,
+            18000
+          ],
+          "food_range": [
+            1200,
+            2500
+          ],
+          "activities_range": [
+            2500,
+            5000
+          ],
+          "local_transport_range": [
+            1200,
+            2500
+          ],
+          "total_daily_range": [
+            11900,
+            28000
+          ]
+        }
+      },
+      "mid_range_category": {
+        "32": {
+          "accommodation_range": [
+            2000,
+            4500
+          ],
+          "food_range": [
+            500,
+            1000
+          ],
+          "activities_range": [
+            600,
+            1000
+          ],
+          "local_transport_range": [
+            300,
+            700
+          ],
+          "total_daily_range": [
+            3400,
+            7200
+          ]
+        },
+        "62": {
+          "accommodation_range": [
+            3500,
+            7000
+          ],
+          "food_range": [
+            800,
+            1500
+          ],
+          "activities_range": [
+            2000,
+            3500
+          ],
+          "local_transport_range": [
+            800,
+            2000
+          ],
+          "total_daily_range": [
+            7100,
+            14000
+          ]
+        }
+      },
+      "mobile_network": {
+        "32": [
+          "BSNL, Jio and Airtel in pockets"
+        ],
+        "62": [
+          "BSNL main network; some limited Jio/Airtel presence.[web:244]"
+        ]
+      },
+      "nearest_airport": {
+        "32": {
+          "name": "Port Blair (via ferry)",
+          "distance_km": 40
+        },
+        "62": {
+          "name": "Port Blair Airport (via ferry)",
+          "distance_km": 42
+        }
+      },
+      "nearest_major_city": {
+        "32": {
+          "name": "Port Blair",
+          "distance_km": 40
+        },
+        "62": {
+          "name": "Port Blair",
+          "distance_km": 42
+        }
+      },
+      "nearest_railway_station": {
+        "32": {
+          "name": "None (island; ferry access only)",
+          "distance_km": null
+        },
+        "62": {
+          "name": "None",
+          "distance_km": null
+        }
+      },
+      "off_season": {
+        "32": "June–September",
+        "62": "Monsoon and low-traffic shoulder months"
+      },
+      "peak_tourist_season": {
+        "32": "December–March",
+        "62": "December–March but still less crowded than Havelock.[web:220][web:245]"
+      },
+      "permits_details": {
+        "32": "Not required",
+        "62": "Covered under standard Andaman entry regime via Port Blair; tour operators handle logistics.[web:244]"
+      },
+      "permits_required": {
+        "32": false,
+        "62": true
+      },
+      "popularity_score": {
+        "32": 7,
+        "62": 8
+      },
+      "primary_attractions": {
+        "32": [
+          "Bharatpur Beach",
+          "Laxmanpur Beach",
+          "Sitapur Beach",
+          "Natural Rock Formation"
+        ],
+        "62": [
+          "Bharatpur Beach (snorkelling and water sports)",
+          "Laxmanpur Beach sunset point",
+          "Natural bridge/rock formation",
+          "Quiet interior villages and fields"
+        ]
+      },
+      "rainfall_pattern": {
+        "32": "Tropical rainfall pattern similar to Havelock; heavy monsoon showers.",
+        "62": "Same Andaman tropical monsoon regime with heavy showers and cloudbursts.[web:244]"
+      },
+      "recent_developments": {
+        "32": "Improved jetties and more stay choices while still maintaining a relatively low-key vibe.",
+        "62": "Incremental growth in stay options while administration emphasizes low-key, eco-sensitive development.[web:244][web:247]"
+      },
+      "road_connectivity": {
+        "32": "Compact island with simple internal roads; main access via government and private ferries from Port Blair and Havelock.[web:220][web:223]",
+        "62": "Small internal network of roads and village lanes; accessed via ferries from Port Blair and Havelock.[web:220][web:244][web:245][web:247][web:250]"
+      },
+      "safety_notes": {
+        "32": "Calm, small community; usual caution with water activities and sun exposure.",
+        "62": "Calm and safe; follow beach advisory boards and avoid isolated night swims."
+      },
+      "shopping_highlights": {
+        "32": [
+          "Basic souvenirs",
+          "Shell items",
+          "Local snack stalls"
+        ],
+        "62": [
+          "Basic souvenirs at jetty market",
+          "Locally sold snacks and packaged products"
+        ]
+      },
+      "special_considerations": {
+        "32": "Limited nightlife; last ferry timings restrict arrival and departure windows; carry cash.",
+        "62": "Last ferry timings restrict day schedules; limited nightlife; many properties have early kitchen closing times.[web:220][web:244]"
+      },
+      "suggested_itinerary": {
+        "32": "Day 1: Arrive, Bharatpur Beach and Natural Rock Formation; Day 2: Sunrise at Sitapur and sunset at Laxmanpur; optional extra day for snorkelling and relaxation.[web:220][web:223]",
+        "62": "Day 1: Arrive and explore Bharatpur; Day 2: Natural bridge, Laxmanpur sunset and slow cycling; Day 3: Extra dives or pure relaxation.[web:220][web:245][web:247]"
+      },
+      "sustainability_notes": {
+        "32": "Island ecology is fragile; use reef-safe sunscreen, avoid littering and support small local-run stays.",
+        "62": "Islands generate limited waste; carry reusable bottles and avoid plastics, and never disturb coral or marine life.[web:244][web:247]"
+      },
+      "trip_types": {
+        "32": [
+          "Beach",
+          "Relaxation",
+          "Photography",
+          "Snorkelling",
+          "Short_break"
+        ],
+        "62": [
+          "Island",
+          "Beach",
+          "Diving",
+          "Offbeat",
+          "Honeymoon"
+        ]
+      },
+      "unique_experiences": {
+        "32": "Small, laid-back island with multiple beaches offering sunrise, sunset and lagoon experiences in one compact circuit.[web:220][web:223]",
+        "62": "Smaller, calmer island than Havelock with relaxed vibe, shallow lagoons and quaint rural scenery.[web:220][web:247][web:250]"
+      },
+      "user_reviews_summary": {
+        "32": "Rated as quieter and more relaxed than Havelock with beautiful, swimmable beaches and easy half- or full-day tours.",
+        "62": "Often described as a peaceful counterpoint to Havelock, ideal for unwinding with fewer crowds and pretty sunsets.[web:220][web:245][web:250]"
+      }
+    }
+  },
+  {
+    "review_key": "spiti valley | himachal pradesh",
+    "left_id": 16,
+    "right_id": 74,
+    "differing_field_count": 42,
+    "differences": {
+      "accommodation_types": {
+        "16": [
+          "Homestays",
+          "Guesthouses",
+          "Basic hotels",
+          "Seasonal camps"
+        ],
+        "74": [
+          "Homestays in villages",
+          "Guesthouses in Kaza and key villages",
+          "A few boutique stays"
+        ]
+      },
+      "activities_available": {
+        "16": [
+          "Road trips",
+          "High-altitude village stays",
+          "Monastery visits",
+          "Trekking (short and multi-day)",
+          "Stargazing"
+        ],
+        "74": [
+          "Multi-day road trips",
+          "Monastery visits and village walks",
+          "Short treks and high-point drives"
+        ]
+      },
+      "atm_availability": {
+        "16": "One or few ATMs in Kaza; unreliable; carry sufficient cash.",
+        "74": "ATMs in Kaza may not always be stocked; carry sufficient cash.[web:259]"
+      },
+      "average_temperature": {
+        "16": {
+          "winter": "-20--5°C",
+          "summer": "5-20°C",
+          "monsoon": "5-18°C (rain shadow, mostly dry)"
+        },
+        "74": {
+          "winter": "-15-0°C",
+          "summer": "5-20°C",
+          "monsoon": "8-18°C"
+        }
+      },
+      "avoid_seasons": {
+        "16": [
+          "Winter and early spring due to snow and road closures"
+        ],
+        "74": [
+          "Winter and early spring when many roads/villages are cut off and temperatures plunge.[web:259]"
+        ]
+      },
+      "best_seasons": {
+        "16": [
+          "Summer",
+          "Early Autumn"
+        ],
+        "74": [
+          "June–September for full circuit access; May and October in lower sections depending on snow.[web:256][web:259]"
+        ]
+      },
+      "budget_category": {
+        "16": {
+          "accommodation_range": [
+            600,
+            1200
+          ],
+          "food_range": [
+            300,
+            600
+          ],
+          "activities_range": [
+            300,
+            600
+          ],
+          "local_transport_range": [
+            400,
+            700
+          ],
+          "total_daily_range": [
+            1600,
+            3100
+          ]
+        },
+        "74": {
+          "accommodation_range": [
+            800,
+            1800
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            200,
+            700
+          ],
+          "local_transport_range": [
+            400,
+            900
+          ],
+          "total_daily_range": [
+            1650,
+            3900
+          ]
+        }
+      },
+      "coordinates": {
+        "16": {
+          "latitude": 32.22,
+          "longitude": 78.33
+        },
+        "74": {
+          "latitude": 32.25,
+          "longitude": 78.0
+        }
+      },
+      "data_sources": {
+        "16": [
+          "web:151",
+          "web:152",
+          "web:160",
+          "web:163"
+        ],
+        "74": [
+          "web:256",
+          "web:259"
+        ]
+      },
+      "festivals_events": {
+        "16": "Local monastery festivals and seasonal celebrations.",
+        "74": "Local monastery festivals and masked dances, mainly in summer."
+      },
+      "food_scene": {
+        "16": "Simple local and Indian food; limited menus; expect basic but filling meals.",
+        "74": "Simple Indian and Tibetan dishes; supplies more limited than mainstream hill stations."
+      },
+      "hidden_gems": {
+        "16": [
+          "Remote villages like Langza, Hikkim, Komik",
+          "Non-touristy homestay experiences"
+        ],
+        "74": [
+          "Homestays in less commercial villages",
+          "Night skies with superb stargazing"
+        ]
+      },
+      "ideal_for": {
+        "16": [
+          "Adventure_seekers",
+          "Photographers",
+          "Long_road_trip_travellers",
+          "Spiritual_explorers"
+        ],
+        "74": [
+          "Experienced_road_travellers",
+          "Landscape_photographers",
+          "Culture_seekers"
+        ]
+      },
+      "ideal_for_why": {
+        "16": {
+          "Adventure_seekers": "Remote, rough roads and high altitudes.",
+          "Photographers": "Unique stark landscapes and monasteries."
+        },
+        "74": {
+          "Experienced_road_travellers": "Rough, long drives and high passes require confidence and planning.[web:256]",
+          "Culture_seekers": "Old monasteries and Tibetan-influenced villages offer deep immersion."
+        }
+      },
+      "internet_connectivity": {
+        "16": "Very limited and often slow; some 4G spots around Kaza and larger villages.",
+        "74": "Spotty; some BSNL and limited 4G in Kaza and a few villages; expect digital detox.[web:259]"
+      },
+      "language_spoken": {
+        "16": [
+          "Hindi",
+          "Tibeto-Himachali dialects",
+          "Basic English with tourism providers"
+        ],
+        "74": [
+          "Hindi",
+          "Local Tibeto-Burman dialects",
+          "Basic English in tourism.[web:256]"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "16": [
+          "Momos",
+          "Thukpa",
+          "Butter tea",
+          "Local breads and lentil dishes"
+        ],
+        "74": [
+          "Thukpa and momos",
+          "Butter tea and local breads"
+        ]
+      },
+      "local_culture": {
+        "16": "Tibetan Buddhist highland culture with monasteries and unique village customs.",
+        "74": "Buddhist villages with agriculture and pastoralism; monasteries central to community life."
+      },
+      "local_customs": {
+        "16": "Respect monastery rules; ask before photographing people or rituals.",
+        "74": "Respect monastery etiquette and ask before photographing people."
+      },
+      "luxury_category": {
+        "16": {
+          "accommodation_range": [
+            3000,
+            7000
+          ],
+          "food_range": [
+            800,
+            1500
+          ],
+          "activities_range": [
+            1000,
+            2000
+          ],
+          "local_transport_range": [
+            1000,
+            1500
+          ],
+          "total_daily_range": [
+            5800,
+            12000
+          ]
+        },
+        "74": {
+          "accommodation_range": [
+            4000,
+            12000
+          ],
+          "food_range": [
+            700,
+            1600
+          ],
+          "activities_range": [
+            800,
+            2000
+          ],
+          "local_transport_range": [
+            800,
+            1500
+          ],
+          "total_daily_range": [
+            6300,
+            17100
+          ]
+        }
+      },
+      "mid_range_category": {
+        "16": {
+          "accommodation_range": [
+            1200,
+            2500
+          ],
+          "food_range": [
+            600,
+            1000
+          ],
+          "activities_range": [
+            600,
+            1200
+          ],
+          "local_transport_range": [
+            700,
+            1200
+          ],
+          "total_daily_range": [
+            3100,
+            5900
+          ]
+        },
+        "74": {
+          "accommodation_range": [
+            1800,
+            4000
+          ],
+          "food_range": [
+            400,
+            900
+          ],
+          "activities_range": [
+            500,
+            1200
+          ],
+          "local_transport_range": [
+            600,
+            1200
+          ],
+          "total_daily_range": [
+            3300,
+            7300
+          ]
+        }
+      },
+      "minimum_days": {
+        "16": 5,
+        "74": 6
+      },
+      "mobile_network": {
+        "16": [
+          "BSNL primary; Jio in some pockets"
+        ],
+        "74": [
+          "Primarily BSNL; some Jio/Airtel in pockets depending on rollouts."
+        ]
+      },
+      "nearest_airport": {
+        "16": {
+          "name": "Bhuntar (Kullu) / Shimla (via road)",
+          "distance_km": 250
+        },
+        "74": {
+          "name": "Kullu (Bhuntar) / Chandigarh",
+          "distance_km": 250
+        }
+      },
+      "nearest_major_city": {
+        "16": {
+          "name": "Shimla",
+          "distance_km": 300
+        },
+        "74": {
+          "name": "Shimla / Manali (access towns)",
+          "distance_km": 200
+        }
+      },
+      "nearest_railway_station": {
+        "16": {
+          "name": "Joginder Nagar / Shimla (via road)",
+          "distance_km": 240
+        },
+        "74": {
+          "name": "Chandigarh / Shimla (narrow gauge nearby)",
+          "distance_km": 320
+        }
+      },
+      "off_season": {
+        "16": "October–May (very limited access and extreme cold)",
+        "74": "Early and late shoulder weeks; winter is only for expedition-level visits"
+      },
+      "peak_tourist_season": {
+        "16": "June–September",
+        "74": "July–September; becoming popular with backpackers and road-trippers.[web:256]"
+      },
+      "permits_details": {
+        "16": "Some routes may require permits (especially for foreigners); check latest local rules.",
+        "74": "Inner Line Permits for some foreign travellers and for sensitive border stretches; check latest regulations.[web:256]"
+      },
+      "popularity_score": {
+        "16": 6,
+        "74": 8
+      },
+      "primary_attractions": {
+        "16": [
+          "Kaza",
+          "Key (Kye) Monastery",
+          "Kibber and Chicham",
+          "Pin Valley",
+          "Dhankar and Tabo monasteries",
+          "Chandratal (seasonal access)"
+        ],
+        "74": [
+          "Villages like Kaza, Langza, Hikkim, Komic, Dhankar",
+          "Key Monastery",
+          "High passes and stark desert mountains"
+        ]
+      },
+      "rainfall_pattern": {
+        "16": "Very low rainfall; region is largely in a rain shadow.",
+        "74": "Rain-shadow region; minimal rainfall but neighbouring Kinnaur/Manali roads can see landslides.[web:256]"
+      },
+      "recent_developments": {
+        "16": "Road improvements and more structured homestay options in some villages.",
+        "74": "Rising popularity with backpackers and road-trip circuits; homestays expanding while authorities warn about overtourism impacts.[web:256]"
+      },
+      "road_connectivity": {
+        "16": "Long, high-altitude roads via Kinnaur or Manali; seasonal closures in winter and early spring.",
+        "74": "Seasonal high mountain roads via Shimla–Kinnaur or Manali–Rohtang–Kunzum; often open only from late spring to early autumn.[web:256][web:259]"
+      },
+      "safety_notes": {
+        "16": "Environmental challenges more than crime; travel with contingency time and supplies.",
+        "74": "Weather and altitude are main risks; roads can be narrow with drop-offs."
+      },
+      "shopping_highlights": {
+        "16": [
+          "Small handicrafts",
+          "Prayer items",
+          "Local woollens"
+        ],
+        "74": [
+          "Small handicrafts, prayer flags and souvenirs",
+          "Handmade woollens"
+        ]
+      },
+      "special_considerations": {
+        "16": "Altitude sickness risk; limited medical facilities; fuel, cash and connectivity can be sparse.",
+        "74": "Altitude sickness risk; limited medical facilities; travel only in suitable season and with adequate acclimatisation days.[web:259]"
+      },
+      "suggested_itinerary": {
+        "16": "Shimla–Kinnaur–Spiti circuit or Manali–Kaza–Spiti–Kinnaur, spread over 7–10 days with acclimatisation stops.",
+        "74": "Typical circuit: Shimla–Kinnaur–Spiti–Manali over 7–10 days, or in reverse, with at least 2–3 nights around Kaza.[web:256][web:259]"
+      },
+      "sustainability_notes": {
+        "16": "Waste disposal is a major concern; pack out trash, conserve water, and support community-run stays.",
+        "74": "Carry out all waste, respect water scarcity and avoid off-road driving on fragile slopes."
+      },
+      "trip_types": {
+        "16": [
+          "Adventure",
+          "High_altitude",
+          "Photography",
+          "Spiritual",
+          "Offbeat"
+        ],
+        "74": [
+          "High_altitude",
+          "Road_trip",
+          "Culture",
+          "Adventure"
+        ]
+      },
+      "unique_experiences": {
+        "16": "Cold desert landscapes with some of the highest villages and monasteries in India.",
+        "74": "Trans-Himalayan cold desert with dramatic moonscapes, ancient monasteries and minimal vegetation, offering a semi-Ladakh feel in Himachal.[web:256][web:259]"
+      },
+      "user_reviews_summary": {
+        "16": "Challenging but unforgettable; considered a ‘once in a lifetime’ road journey by many.",
+        "74": "Often described as raw, stark and transformative; many emphasise that it is not a rushed weekend destination.[web:256][web:259]"
+      }
+    }
+  },
+  {
+    "review_key": "tawang | arunachal pradesh",
+    "left_id": 14,
+    "right_id": 73,
+    "differing_field_count": 46,
+    "differences": {
+      "accommodation_types": {
+        "14": [
+          "Guesthouses",
+          "Small hotels",
+          "Homestays"
+        ],
+        "73": [
+          "Basic hotels",
+          "Homestays and guesthouses",
+          "Some mid-range hotels"
+        ]
+      },
+      "activities_available": {
+        "14": [
+          "Monastery visits",
+          "High-mountain drives",
+          "Short walks to lakes",
+          "War memorial visits"
+        ],
+        "73": [
+          "Monastery and cultural visits",
+          "Scenic drives to lakes and passes",
+          "Snow-play in season"
+        ]
+      },
+      "altitude_m": {
+        "14": 3048,
+        "73": 3050
+      },
+      "atm_availability": {
+        "14": "Limited; carry sufficient cash.",
+        "73": "ATMs in larger towns like Bomdila/Tawang but can run out of cash; carry reserves."
+      },
+      "average_temperature": {
+        "14": {
+          "winter": "-5-10°C (colder at passes)",
+          "summer": "8-20°C",
+          "monsoon": "10-18°C"
+        },
+        "73": {
+          "winter": "-8-8°C",
+          "summer": "6-18°C",
+          "monsoon": "8-16°C"
+        }
+      },
+      "avoid_seasons": {
+        "14": [
+          "Heavy winter snow and peak monsoon for landslides"
+        ],
+        "73": [
+          "Peak monsoon for landslides; some deep winter spells for road closures and extreme cold.[web:256]"
+        ]
+      },
+      "best_seasons": {
+        "14": [
+          "Late Spring",
+          "Summer",
+          "Early Autumn"
+        ],
+        "73": [
+          "March–May and October–November for clear skies; January for snow for those prepared for cold.[web:256][web:259]"
+        ]
+      },
+      "budget_category": {
+        "14": {
+          "accommodation_range": [
+            800,
+            1500
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            200,
+            500
+          ],
+          "local_transport_range": [
+            300,
+            600
+          ],
+          "total_daily_range": [
+            1550,
+            3100
+          ]
+        },
+        "73": {
+          "accommodation_range": [
+            1000,
+            2200
+          ],
+          "food_range": [
+            300,
+            600
+          ],
+          "activities_range": [
+            300,
+            800
+          ],
+          "local_transport_range": [
+            400,
+            900
+          ],
+          "total_daily_range": [
+            2000,
+            4500
+          ]
+        }
+      },
+      "coordinates": {
+        "14": {
+          "latitude": 27.586,
+          "longitude": 91.859
+        },
+        "73": {
+          "latitude": 27.59,
+          "longitude": 91.86
+        }
+      },
+      "data_sources": {
+        "14": [
+          "web:177",
+          "web:183"
+        ],
+        "73": [
+          "web:256",
+          "web:259"
+        ]
+      },
+      "festivals_events": {
+        "14": "Losar, local monastery festivals.",
+        "73": "Losar and monastery festivals; military parades on national days."
+      },
+      "food_scene": {
+        "14": "Simple local and basic Indian food; limited variety in remote spots.",
+        "73": "Simple Tibetan, North Indian and local Arunachali dishes; mostly homely meals.[web:256]"
+      },
+      "hidden_gems": {
+        "14": [
+          "Smaller monasteries and villages around Tawang",
+          "Less-visited lakes off the main road (with local guidance)"
+        ],
+        "73": [
+          "Small villages between Dirang and Tawang",
+          "Less-known lakes and vantage points accessible in good weather"
+        ]
+      },
+      "ideal_days": {
+        "14": 6,
+        "73": 5
+      },
+      "ideal_for": {
+        "14": [
+          "Offbeat_mountain_lovers",
+          "Spiritual_travellers",
+          "Photography_enthusiasts"
+        ],
+        "73": [
+          "Adventure_road_trippers",
+          "Buddhist_culture_lovers",
+          "Snow_and_high_mountain_fans"
+        ]
+      },
+      "ideal_for_why": {
+        "14": {
+          "Offbeat_mountain_lovers": "Long, rewarding journey into a remote Himalayan area.",
+          "Spiritual_travellers": "Large and historic Buddhist monasteries."
+        },
+        "73": {
+          "Adventure_road_trippers": "Multi-day journey via Dirang with dramatic passes and army convoys.[web:256]",
+          "Buddhist_culture_lovers": "Monastery and local festivals offer deep cultural immersion.[web:259]"
+        }
+      },
+      "internet_connectivity": {
+        "14": "Limited; better in main town but unreliable.",
+        "73": "Limited; expect slow data and patchy coverage."
+      },
+      "language_spoken": {
+        "14": [
+          "Local dialects",
+          "Hindi (some)",
+          "Basic English in tourism)"
+        ],
+        "73": [
+          "Monpa dialects",
+          "Hindi in administration/markets",
+          "Some English.[web:256]"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "14": [
+          "Thukpa",
+          "Momos",
+          "Simple local stews"
+        ],
+        "73": [
+          "Thukpa and momos",
+          "Local butter tea and simple stews"
+        ]
+      },
+      "local_culture": {
+        "14": "Monpa Buddhist culture with Tibetan influence.",
+        "73": "Monpa Buddhist communities with monasteries and traditional houses."
+      },
+      "local_customs": {
+        "14": "Respect monastic traditions; seek permission for close photography.",
+        "73": "Be respectful in monasteries and around army installations; photography may be restricted."
+      },
+      "luxury_category": {
+        "14": {
+          "accommodation_range": [
+            3500,
+            8000
+          ],
+          "food_range": [
+            600,
+            1500
+          ],
+          "activities_range": [
+            600,
+            1500
+          ],
+          "local_transport_range": [
+            700,
+            1200
+          ],
+          "total_daily_range": [
+            5400,
+            12200
+          ]
+        },
+        "73": {
+          "accommodation_range": [
+            4500,
+            12000
+          ],
+          "food_range": [
+            800,
+            2000
+          ],
+          "activities_range": [
+            1000,
+            2500
+          ],
+          "local_transport_range": [
+            800,
+            1600
+          ],
+          "total_daily_range": [
+            7100,
+            18100
+          ]
+        }
+      },
+      "maximum_days": {
+        "14": 8,
+        "73": 7
+      },
+      "mid_range_category": {
+        "14": {
+          "accommodation_range": [
+            1500,
+            3000
+          ],
+          "food_range": [
+            400,
+            800
+          ],
+          "activities_range": [
+            400,
+            800
+          ],
+          "local_transport_range": [
+            500,
+            900
+          ],
+          "total_daily_range": [
+            2800,
+            5500
+          ]
+        },
+        "73": {
+          "accommodation_range": [
+            2200,
+            4500
+          ],
+          "food_range": [
+            500,
+            900
+          ],
+          "activities_range": [
+            600,
+            1400
+          ],
+          "local_transport_range": [
+            600,
+            1200
+          ],
+          "total_daily_range": [
+            3900,
+            8000
+          ]
+        }
+      },
+      "minimum_days": {
+        "14": 5,
+        "73": 4
+      },
+      "mobile_network": {
+        "14": [
+          "BSNL strongest; others patchy"
+        ],
+        "73": [
+          "Mostly BSNL and limited private networks; coverage fades near remote spots."
+        ]
+      },
+      "nearest_airport": {
+        "14": {
+          "name": "Tezpur / Guwahati (Assam, by road)",
+          "distance_km": 320
+        },
+        "73": {
+          "name": "Tezpur / Guwahati (then road via Bhalukpong–Bomdila)",
+          "distance_km": 320
+        }
+      },
+      "nearest_major_city": {
+        "14": {
+          "name": "Guwahati",
+          "distance_km": 450
+        },
+        "73": {
+          "name": "Guwahati",
+          "distance_km": 470
+        }
+      },
+      "nearest_railway_station": {
+        "14": {
+          "name": "Rangiya / Guwahati",
+          "distance_km": 340
+        },
+        "73": {
+          "name": "Tezpur / Rangapara / Guwahati",
+          "distance_km": 320
+        }
+      },
+      "off_season": {
+        "14": "Deep winter and heavy monsoon weeks",
+        "73": "Heavy monsoon period and mid-winter cold snaps"
+      },
+      "peak_tourist_season": {
+        "14": "April–June and September–October",
+        "73": "April–May and October festive season; also popular in winter for snow trips.[web:259]"
+      },
+      "permits_details": {
+        "14": "ILP for Indian citizens; additional local permits for Bum La and some areas.",
+        "73": "ILP for Arunachal plus special permits for some border areas; typically arranged from Guwahati/online.[web:256][web:259]"
+      },
+      "popularity_score": {
+        "14": 6,
+        "73": 7
+      },
+      "primary_attractions": {
+        "14": [
+          "Tawang Monastery",
+          "Sela Pass (en route)",
+          "Bum La Pass (border, permits)",
+          "War Memorial",
+          "High-altitude lakes"
+        ],
+        "73": [
+          "Tawang Monastery",
+          "Sela Pass (on the way)",
+          "High-altitude lakes (Madhuri Lake etc.)",
+          "War memorials and viewpoints"
+        ]
+      },
+      "rainfall_pattern": {
+        "14": "Mountain weather with snow in winter and heavy rain in monsoon.",
+        "73": "High rainfall in monsoon; snow in winter around passes and occasionally town.[web:256]"
+      },
+      "recent_developments": {
+        "14": "Road improvements on some stretches but still subject to weather disruptions.",
+        "73": "Gradual improvements in road stretches and more homestays, while permits and army checks remain strict.[web:256]"
+      },
+      "region": {
+        "14": "Northeast India",
+        "73": "North East India"
+      },
+      "road_connectivity": {
+        "14": "Long, high mountain roads via Bomdila and Sela Pass; weather-dependent.",
+        "73": "Long, winding Himalayan roads via Sela Pass; travel usually broken into stages (Guwahati–Bomdila/Dirang–Tawang).[web:256][web:259]"
+      },
+      "safety_notes": {
+        "14": "Border area and remote routes; keep permits and weather information updated.",
+        "73": "Road and weather risks outweigh crime concerns; obey army and local advisories."
+      },
+      "shopping_highlights": {
+        "14": [
+          "Local handicrafts",
+          "Prayer items",
+          "Winter wear"
+        ],
+        "73": [
+          "Woollens and local handicrafts",
+          "Prayer flags and small souvenirs"
+        ]
+      },
+      "special_considerations": {
+        "14": "Permits required for Arunachal; road conditions and weather can be challenging; altitude and cold require preparation.",
+        "73": "Inner Line Permit (ILP) required for Indians; foreigners need additional clearances; altitude and long drives demand good health.[web:256][web:259]"
+      },
+      "suggested_itinerary": {
+        "14": "Day 1–2: Travel from Guwahati/Tezpur via Bomdila; Day 3–4: Tawang and nearby sights; Day 5–6: Return journey with stops.",
+        "73": "Typical 5–7 day circuit from Guwahati: Guwahati–Bomdila/Dirang–Tawang (2–3 nights)–return with stops at passes/lakes.[web:256][web:259]"
+      },
+      "sustainability_notes": {
+        "14": "Fragile mountain and cultural environment; travel light and avoid disturbing local ways of life.",
+        "73": "Carry back all trash; use refillable bottles and minimise disturbance in fragile high-altitude ecosystems."
+      },
+      "trip_types": {
+        "14": [
+          "Spiritual",
+          "Mountain",
+          "Photography",
+          "Offbeat",
+          "Border_region"
+        ],
+        "73": [
+          "High_altitude",
+          "Monasteries",
+          "Snow_views",
+          "Road_trip"
+        ]
+      },
+      "unique_experiences": {
+        "14": "Remote Himalayan Buddhist region with dramatic passes and monasteries.",
+        "73": "Remote Himalayan Buddhist town near the China border with a major monastery and stark, beautiful landscapes.[web:256][web:259]"
+      },
+      "user_reviews_summary": {
+        "14": "Spectacular but demanding journey; not for rushed or unprepared travellers.",
+        "73": "Regarded as a memorable once-in-a-while trip for its remoteness and monastery; many note tough but rewarding road journey.[web:256][web:259]"
+      }
+    }
+  },
+  {
+    "review_key": "varanasi (kashi) | uttar pradesh",
+    "left_id": 4,
+    "right_id": 39,
+    "differing_field_count": 39,
+    "differences": {
+      "accommodation_types": {
+        "4": [
+          "Budget lodges",
+          "Ghatside guesthouses",
+          "Mid-range hotels",
+          "Luxury hotels"
+        ],
+        "39": [
+          "Ghat-facing guesthouses",
+          "Budget hotels",
+          "Mid-range and luxury hotels"
+        ]
+      },
+      "activities_available": {
+        "4": [
+          "Sunrise boat ride",
+          "Evening Ganga Aarti viewing",
+          "Temple visits",
+          "Old city walking tours",
+          "Sarnath day trip"
+        ],
+        "39": [
+          "Sunrise/sunset boat rides",
+          "Evening Aarti at main ghats",
+          "Temple darshan",
+          "Heritage and food walks"
+        ]
+      },
+      "altitude_m": {
+        "4": 81,
+        "39": 80
+      },
+      "atm_availability": {
+        "4": "Good coverage in central city and by major roads.",
+        "39": "Many ATMs throughout city."
+      },
+      "average_temperature": {
+        "4": {
+          "winter": "10-25°C",
+          "summer": "30-42°C",
+          "monsoon": "26-32°C"
+        },
+        "39": {
+          "winter": "8-25°C",
+          "summer": "28-44°C",
+          "monsoon": "24-32°C"
+        }
+      },
+      "avoid_seasons": {
+        "4": [
+          "Peak Summer (heat)",
+          "Days of very high river levels in heavy monsoon"
+        ],
+        "39": [
+          "Hottest months (May–June) and times of extreme flood or festival crowds if you dislike crowds"
+        ]
+      },
+      "best_seasons": {
+        "4": [
+          "Winter",
+          "Early Spring"
+        ],
+        "39": [
+          "Winter",
+          "Post-monsoon"
+        ]
+      },
+      "budget_category": {
+        "4": {
+          "accommodation_range": [
+            600,
+            1200
+          ],
+          "food_range": [
+            250,
+            500
+          ],
+          "activities_range": [
+            200,
+            400
+          ],
+          "local_transport_range": [
+            150,
+            300
+          ],
+          "total_daily_range": [
+            1200,
+            2400
+          ]
+        },
+        "39": {
+          "accommodation_range": [
+            600,
+            1500
+          ],
+          "food_range": [
+            200,
+            500
+          ],
+          "activities_range": [
+            200,
+            500
+          ],
+          "local_transport_range": [
+            150,
+            300
+          ],
+          "total_daily_range": [
+            1150,
+            2800
+          ]
+        }
+      },
+      "data_sources": {
+        "4": [
+          "web:191",
+          "web:194",
+          "web:183"
+        ],
+        "39": [
+          "web:177",
+          "web:182"
+        ]
+      },
+      "festivals_events": {
+        "4": "Dev Deepawali, important Hindu festivals, and frequent local melas.",
+        "39": "Dev Deepawali, Diwali, Holi, Ganga Mahotsav and more."
+      },
+      "food_scene": {
+        "4": "Famous for vegetarian food, sweets, chaat and lassi; mostly budget-friendly.",
+        "39": "Street food (chaat, kachori, lassi), mithai shops and sit-down restaurants offering North Indian and some international options."
+      },
+      "hidden_gems": {
+        "4": [
+          "Less crowded ghats upriver",
+          "Small akharas and ashrams",
+          "Quiet lanes behind ghats"
+        ],
+        "39": [
+          "Smaller ghats away from Dashashwamedh crowd",
+          "Local breakfast and chaat joints in narrow lanes"
+        ]
+      },
+      "ideal_for": {
+        "4": [
+          "Pilgrims",
+          "Spiritual_seekers",
+          "Photographers",
+          "Culture_lovers"
+        ],
+        "39": [
+          "Spiritual_seekers",
+          "Photographers",
+          "Culture_lovers",
+          "First_time_India_travellers"
+        ]
+      },
+      "ideal_for_why": {
+        "4": {
+          "Pilgrims": "Major Hindu tirtha with many temples and ghats.",
+          "Photographers": "Vivid scenes of daily ritual life along the river."
+        },
+        "39": {
+          "Spiritual_seekers": "Non-stop rituals and Aartis along ghats.",
+          "Photographers": "Faces, rituals, ghats and boats create iconic frames."
+        }
+      },
+      "internet_connectivity": {
+        "4": "Good in most central areas.",
+        "39": "Good 4G and broadband in most parts."
+      },
+      "language_spoken": {
+        "4": [
+          "Hindi",
+          "Bhojpuri",
+          "English (in tourist areas)"
+        ],
+        "39": [
+          "Hindi",
+          "Bhojpuri",
+          "English (tourism)"
+        ]
+      },
+      "local_cuisine_must_try": {
+        "4": [
+          "Kachori-sabzi",
+          "Banarasi paan",
+          "Lassi",
+          "Street chaat"
+        ],
+        "39": [
+          "Kachori-sabzi breakfast",
+          "Banarasi paan",
+          "Lassi and local sweets"
+        ]
+      },
+      "local_culture": {
+        "4": "One of the oldest continuously inhabited cities, with deep ritual and philosophical traditions.",
+        "39": "Core Hindu pilgrimage city with centuries-old traditions and scholarship."
+      },
+      "local_customs": {
+        "4": "Dress modestly; remove shoes in temples; do not photograph cremations without explicit permission.",
+        "39": "Dress modestly, remove footwear at temples and be mindful at cremation ghats."
+      },
+      "luxury_category": {
+        "4": {
+          "accommodation_range": [
+            5000,
+            15000
+          ],
+          "food_range": [
+            800,
+            2000
+          ],
+          "activities_range": [
+            700,
+            2000
+          ],
+          "local_transport_range": [
+            400,
+            800
+          ],
+          "total_daily_range": [
+            6900,
+            23800
+          ]
+        },
+        "39": {
+          "accommodation_range": [
+            3500,
+            12000
+          ],
+          "food_range": [
+            700,
+            1800
+          ],
+          "activities_range": [
+            600,
+            1500
+          ],
+          "local_transport_range": [
+            300,
+            700
+          ],
+          "total_daily_range": [
+            5100,
+            16000
+          ]
+        }
+      },
+      "maximum_days": {
+        "4": 4,
+        "39": 5
+      },
+      "mid_range_category": {
+        "4": {
+          "accommodation_range": [
+            1500,
+            3000
+          ],
+          "food_range": [
+            400,
+            800
+          ],
+          "activities_range": [
+            300,
+            700
+          ],
+          "local_transport_range": [
+            250,
+            500
+          ],
+          "total_daily_range": [
+            2450,
+            5000
+          ]
+        },
+        "39": {
+          "accommodation_range": [
+            1500,
+            3500
+          ],
+          "food_range": [
+            400,
+            800
+          ],
+          "activities_range": [
+            400,
+            800
+          ],
+          "local_transport_range": [
+            200,
+            400
+          ],
+          "total_daily_range": [
+            2500,
+            5500
+          ]
+        }
+      },
+      "nearest_airport": {
+        "4": {
+          "name": "Lal Bahadur Shastri Airport",
+          "distance_km": 26
+        },
+        "39": {
+          "name": "Lal Bahadur Shastri International Airport, Varanasi",
+          "distance_km": 25
+        }
+      },
+      "nearest_railway_station": {
+        "4": {
+          "name": "Varanasi Junction / Kashi",
+          "distance_km": 2
+        },
+        "39": {
+          "name": "Varanasi Junction / Banaras",
+          "distance_km": 0
+        }
+      },
+      "off_season": {
+        "4": "May-June (very hot)",
+        "39": "Peak summer and some monsoon periods"
+      },
+      "peak_tourist_season": {
+        "4": "November-March",
+        "39": "October–March and major Hindu festivals"
+      },
+      "popularity_score": {
+        "4": 9,
+        "39": 10
+      },
+      "primary_attractions": {
+        "4": [
+          "Dashashwamedh Ghat",
+          "Kashi Vishwanath Temple",
+          "Assi Ghat",
+          "Sarnath",
+          "Manikarnika Ghat",
+          "Ganga Aarti"
+        ],
+        "39": [
+          "Dashashwamedh and Assi Ghats",
+          "Ganga Aarti",
+          "Kashi Vishwanath Temple corridor",
+          "Boat rides on Ganga",
+          "Old city lanes"
+        ]
+      },
+      "rainfall_pattern": {
+        "4": "Monsoon June-September; Ganga level can rise significantly.",
+        "39": "Ganga water levels vary with monsoon; boat routes may change."
+      },
+      "recent_developments": {
+        "4": "Major riverfront and infrastructure upgrades as part of Kashi development projects.",
+        "39": "New Kashi Vishwanath corridor and improved ghat infrastructure."
+      },
+      "road_connectivity": {
+        "4": "Good highway connections to major UP cities.",
+        "39": "Good highway and rail links from major North Indian cities; city traffic can be congested near old town."
+      },
+      "safety_notes": {
+        "4": "Busy and crowded; keep valuables secure; be cautious with touts offering boat rides or ‘special darshan’.",
+        "39": "Crowds and narrow alleys require alertness; use trusted boats and guides."
+      },
+      "shopping_highlights": {
+        "4": [
+          "Banarasi silk sarees",
+          "Brassware",
+          "Rudraksha and religious items"
+        ],
+        "39": [
+          "Banarasi silk sarees",
+          "Wooden toys and handicrafts",
+          "Religious items"
+        ]
+      },
+      "special_considerations": {
+        "4": "Crowds around main ghats and temple; strong sights and smells at cremation ghats; respect photography restrictions.",
+        "39": "Old city lanes are narrow and crowded; keep valuables secure; respect photography etiquette, especially around cremation ghats."
+      },
+      "suggested_itinerary": {
+        "4": "Day 1: Evening Ganga Aarti and ghats; Day 2: Sunrise boat ride, Kashi Vishwanath and old city; Day 3: Sarnath excursion and quieter ghats.",
+        "39": "Day 1: Evening Aarti and ghats; Day 2: Sunrise boat and temples; Day 3+: Old city walks, Sarnath day trip or additional ghats."
+      },
+      "sustainability_notes": {
+        "4": "River-cleaning and ghat conservation underway; support operators who follow waste and pollution norms.",
+        "39": "Ganga cleanliness and ghats’ waste management are key; avoid plastic and use authorised boats."
+      },
+      "trip_types": {
+        "4": [
+          "Religious",
+          "Spiritual",
+          "Cultural",
+          "Photography"
+        ],
+        "39": [
+          "Pilgrimage",
+          "Spiritual",
+          "Heritage",
+          "Photography"
+        ]
+      },
+      "unique_experiences": {
+        "4": "Ancient ghats, ritual bathing, cremation ghats and intense spiritual atmosphere.",
+        "39": "One of the world’s oldest living cities with intense spiritual rituals along Ganga ghats and maze-like old lanes."
+      },
+      "user_reviews_summary": {
+        "4": "Intense but unforgettable experience; spiritual and photogenic but can feel overwhelming.",
+        "39": "Described as intense and unforgettable; many find it transformative despite congestion."
+      }
+    }
+  }
+]

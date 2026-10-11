@@ -1,0 +1,29 @@
+TripGenie — Indian Tourism Dataset attribution and modification notice
+
+Upstream dataset: Indian Tourism Dataset
+Creator / publisher: Venkata Sai Sushanth Bongarala (sushanthnaidu24)
+Source: https://www.kaggle.com/datasets/sushanthnaidu24/indian-tourism-dataset
+Release: Version 1, January 12, 2026
+Upstream license: Apache License, Version 2.0 (see LICENSE-2.0.txt)
+
+This notice was prepared by TripGenie. It is not an upstream NOTICE file.
+No upstream NOTICE file was present in the inspected version-1 archive.
+
+Original data:
+india_tourism_dataset.json retains the upstream version-1 JSON contents.
+
+Modified / derived artifacts prepared by TripGenie:
+- processed/india_tourism_processed.json: nested-field flattening, missing-value
+  normalization, cleaned text and preference tags, derived budget features,
+  duplicate-review flags, and TF-IDF input documents.
+- processed/duplicate_destination_report.json: comparisons of repeated entries
+  with differing original field values.
+- processed/preprocessing_metadata.json: transformation policies, feature
+  definitions, audits, and source checksum.
+
+All original record IDs and all 100 entries are retained. Source variants are
+not automatically merged or removed. The original dataset is unchanged.
+These attribution and modification notices accompany the derived artifacts.
+
+This notice is informational and does not modify the Apache License or imply
+endorsement of TripGenie by the dataset publisher.
