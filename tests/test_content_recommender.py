@@ -63,3 +63,10 @@ def test_ambiguous_name_requires_record_id():
     with pytest.raises(ValueError, match="ambiguous"):
         model.recommend("Anchor")
     assert not model.recommend(1).empty
+
+
+def test_filtering_retains_eligible_duplicate_variant():
+    model = ContentBasedRecommender(catalogue())
+    results = model.recommend(1, candidate_ids=[4, 6])
+    assert 4 in results.id.tolist()
+    assert 3 not in results.id.tolist()

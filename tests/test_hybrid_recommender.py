@@ -85,3 +85,9 @@ def test_missing_budget_is_not_affordable_and_interest_oov_is_explicit():
 def test_invalid_preferences_rejected(arguments):
     with pytest.raises(ValueError):
         make_model().recommend(**arguments)
+
+
+def test_eligible_duplicate_variant_is_ranked_before_deduplication():
+    model = make_model()
+    results = model.recommend(candidate_ids=[3, 4])
+    assert set(results.id) == {3, 4}

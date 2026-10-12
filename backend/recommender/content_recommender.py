@@ -70,7 +70,7 @@ class ContentBasedRecommender:
         # A name selects the first source entry. An ID selects an explicit variant.
         return int(positions[0])
 
-    def recommend(self, selected_destination=None, interests=None, top_n=5, destination_weight=0.5):
+    def recommend(self, selected_destination=None, interests=None, top_n=5, destination_weight=0.5, candidate_ids=None):
         """Return positive-scoring, unique destinations ordered by score then ID.
 
         selected_destination: source ID or exact name (case/whitespace insensitive).
@@ -122,6 +122,8 @@ class ContentBasedRecommender:
         result["interest_similarity"] = np.clip(interest_scores, 0, 1)
         result["_destination_key"] = self._name_keys
         result = result.loc[result.similarity_score > 0]
+        if candidate_ids is not None:
+            result = result.loc[result.id.isin(candidate_ids)]
         if excluded_name is not None:
             result = result.loc[result._destination_key != excluded_name]
         return (result.sort_values(["similarity_score", "id"], ascending=[False, True], kind="stable")

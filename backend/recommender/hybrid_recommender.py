@@ -61,7 +61,7 @@ class HybridRecommender:
 
     def recommend(self, selected_destination=None, interests=None, daily_budget=None,
                   budget_tier="budget", season=None, trip_days=None, weights=None,
-                  top_n=5, strict_filters=False):
+                  top_n=5, strict_filters=False, candidate_ids=None):
         """Rank catalogue entries with bounded component scores and contributions.
 
         daily_budget is in dataset units per day for the requested tier.
@@ -159,6 +159,8 @@ class HybridRecommender:
             result[f"{key}_contribution"] = result[f"{key}_score"] * effective[key]
         result["hybrid_score"] = result[[f"{key}_contribution" for key in DEFAULT_WEIGHTS]].sum(axis=1)
         result["_name_key"] = self._names
+        if candidate_ids is not None:
+            eligible &= result.id.isin(candidate_ids)
         if excluded_name is not None:
             eligible &= self._names.ne(excluded_name)
         return (result.loc[eligible & result.hybrid_score.gt(0)]
