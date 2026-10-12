@@ -20,6 +20,10 @@ Modified / derived artifacts prepared by TripGenie:
   with differing original field values.
 - processed/preprocessing_metadata.json: transformation policies, feature
   definitions, audits, and source checksum.
+- frontend/test/fixtures/*.json: catalogue-derived API response snapshots
+  used only for isolated frontend tests.
+- docs/evaluation/*.csv: metadata-derived retrieval and synthetic-profile
+  evaluation results, without invented user ratings or interactions.
 
 All original record IDs and all 100 entries are retained. Source variants are
 not automatically merged or removed. The original dataset is unchanged.
