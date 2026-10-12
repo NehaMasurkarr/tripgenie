@@ -66,7 +66,11 @@ def detail(destination_id):
 @api.post("/recommendations")
 def recommendations():
     preferences = validate_preferences(json_body())
-    rows = service().recommend(preferences)
+    try:
+        rows = service().recommend(preferences)
+    except ValueError as exc:
+        # The public recommender raises ValueError for unsupported query inputs.
+        raise ValidationError(str(exc)) from None
     warnings = ["Scores express catalogue preference matching, not verified suitability or user satisfaction."]
     if preferences.get("interests"):
         recognized = service().content.vectorizer.transform([" ".join(preferences["interests"])])

@@ -9,7 +9,7 @@ from werkzeug.exceptions import HTTPException
 from backend.api.routes import api
 from backend.api.validation import ValidationError
 from backend.config import settings
-from backend.services.catalogue import CatalogueService
+from backend.services.catalogue import CatalogueService, DestinationNotFound
 
 
 def create_app(config=None):
@@ -49,11 +49,10 @@ def create_app(config=None):
         return jsonify({"error": {"code": code, "message": message, "request_id": g.request_id}}), status
 
     @app.errorhandler(ValidationError)
-    @app.errorhandler(ValueError)
     def invalid(exc):
         return error("validation_error", str(exc), 400)
 
-    @app.errorhandler(LookupError)
+    @app.errorhandler(DestinationNotFound)
     def missing(_exc):
         return error("not_found", "Destination not found.", 404)
 

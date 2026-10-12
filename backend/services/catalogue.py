@@ -12,6 +12,10 @@ def display_text(value):
     return re.sub(r"\[web:\d+\]", "", value).strip() if isinstance(value, str) else value
 
 
+class DestinationNotFound(Exception):
+    """An unknown public catalogue ID, distinct from internal dictionary errors."""
+
+
 class CatalogueService:
     def __init__(self, path):
         self.records = json.loads(Path(path).read_text(encoding="utf-8"))
@@ -21,7 +25,7 @@ class CatalogueService:
 
     def get(self, destination_id):
         if destination_id not in self.by_id:
-            raise LookupError("Destination not found.")
+            raise DestinationNotFound("Destination not found.")
         return self.by_id[destination_id]
 
     def summary(self, row, tier="budget"):

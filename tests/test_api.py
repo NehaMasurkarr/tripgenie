@@ -95,7 +95,8 @@ def test_invalid_queries(client, query):
     assert client.get('/api/v1/destinations?' + query).status_code == 400
 
 
-def test_http_errors_cors_and_no_internal_error_leak(client, app, monkeypatch):
+@pytest.mark.parametrize('exception_type', [RuntimeError, KeyError, ValueError])
+def test_http_errors_cors_and_no_internal_error_leak(client, app, monkeypatch, exception_type):
     assert client.post('/api/v1/recommendations', data='{}').status_code == 415
     assert client.post('/api/v1/recommendations', data='{', content_type='application/json').status_code == 400
     assert client.get('/does-not-exist').status_code == 404
@@ -104,7 +105,7 @@ def test_http_errors_cors_and_no_internal_error_leak(client, app, monkeypatch):
     preflight = client.options('/api/v1/recommendations', headers={'Origin':'http://localhost:5173', 'Access-Control-Request-Method':'POST'})
     assert preflight.headers['Access-Control-Allow-Origin'] == 'http://localhost:5173'
     assert 'Access-Control-Allow-Origin' not in client.get('/health', headers={'Origin':'https://untrusted.example'}).headers
-    monkeypatch.setattr(app.extensions['catalogue'], 'options', lambda: (_ for _ in ()).throw(RuntimeError('private details')))
+    monkeypatch.setattr(app.extensions['catalogue'], 'options', lambda: (_ for _ in ()).throw(exception_type('private details')))
     failure = client.get('/api/v1/options')
     assert failure.status_code == 500 and 'private details' not in failure.get_data(as_text=True)
 
