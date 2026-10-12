@@ -1,9 +1,15 @@
 """Read-only catalogue, filtering, and recommendation response shaping."""
 import json
+import re
 from pathlib import Path
 
 from backend.recommender.content_recommender import ContentBasedRecommender, destination_key, normalize_text
 from backend.recommender.hybrid_recommender import HybridRecommender, DEFAULT_WEIGHTS, SEASONS, TIERS, season_matches
+
+
+def display_text(value):
+    """Remove opaque inline source tokens from display text; retain source records."""
+    return re.sub(r"\[web:\d+\]", "", value).strip() if isinstance(value, str) else value
 
 
 class CatalogueService:
@@ -21,7 +27,7 @@ class CatalogueService:
     def summary(self, row, tier="budget"):
         prefix = TIERS[tier]
         return {"id": row["id"], "name": row["destination_name"].strip(), "state": row["state"],
-                "region": row["region"], "description": row["unique_experiences"],
+                "region": row["region"], "description": display_text(row["unique_experiences"]),
                 "interests": row["trip_types_clean"], "best_seasons": row["best_seasons"],
                 "accessibility": row["accessibility"], "popularity": row["popularity_score"],
                 "duration": {"minimum": row["minimum_days"], "ideal": row["ideal_days"], "maximum": row["maximum_days"]},
@@ -33,7 +39,7 @@ class CatalogueService:
 
     def detail(self, destination_id):
         row = self.get(destination_id)
-        return self.summary(row) | {key: row[key] for key in ["food_scene", "safety_notes", "special_considerations",
+        return self.summary(row) | {key: display_text(row[key]) for key in ["food_scene", "safety_notes", "special_considerations",
                 "permits_required", "permits_details", "suggested_itinerary", "last_updated", "data_sources", "avoid_seasons"]}
 
     def options(self):
