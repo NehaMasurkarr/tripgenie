@@ -1,0 +1,81 @@
+query_tag,method,relevant_destinations,returned_count,precision_at_5,recall_at_5,ap_at_5,ndcg_at_5
+adventure,masked_content,11,5,0.6,0.2727272727272727,0.32,0.4912596920895758
+adventure,full_content,11,5,0.6,0.2727272727272727,0.6,0.7227265726449519
+adventure,popularity,11,5,0.2,0.09090909090909091,0.06666666666666667,0.16958010263680806
+adventure,seeded_random,11,5,0.0,0.0,0.0,0.0
+beach,masked_content,10,5,1.0,0.5,1.0,1.0
+beach,full_content,10,5,1.0,0.5,1.0,1.0
+beach,popularity,10,5,0.0,0.0,0.0,0.0
+beach,seeded_random,10,5,0.2,0.1,0.2,0.3391602052736161
+culture,masked_content,15,5,0.4,0.13333333333333333,0.18,0.34519134224686937
+culture,full_content,15,5,0.8,0.26666666666666666,0.76,0.8539316501572937
+culture,popularity,15,5,0.2,0.06666666666666667,0.1,0.21398626473452756
+culture,seeded_random,15,5,0.0,0.0,0.0,0.0
+family,masked_content,19,2,0.2,0.05263157894736842,0.1,0.21398626473452756
+family,full_content,19,5,1.0,0.2631578947368421,1.0,1.0
+family,popularity,19,5,0.2,0.05263157894736842,0.04,0.13120507751234178
+family,seeded_random,19,5,0.2,0.05263157894736842,0.05,0.14606834984270645
+festival,masked_content,5,3,0.4,0.4,0.3333333333333333,0.5087403079104241
+festival,full_content,5,5,0.8,0.8,0.71,0.830419897363192
+festival,popularity,5,5,0.0,0.0,0.0,0.0
+festival,seeded_random,5,5,0.0,0.0,0.0,0.0
+heritage,masked_content,18,5,1.0,0.2777777777777778,1.0,1.0
+heritage,full_content,18,5,1.0,0.2777777777777778,1.0,1.0
+heritage,popularity,18,5,0.6,0.16666666666666666,0.55,0.6992148198508501
+heritage,seeded_random,18,5,0.0,0.0,0.0,0.0
+hill station,masked_content,13,5,0.8,0.3076923076923077,0.71,0.830419897363192
+hill station,full_content,13,5,1.0,0.38461538461538464,1.0,1.0
+hill station,popularity,13,5,0.0,0.0,0.0,0.0
+hill station,seeded_random,13,5,0.0,0.0,0.0,0.0
+honeymoon,masked_content,8,0,0.0,0.0,0.0,0.0
+honeymoon,full_content,8,5,1.0,0.625,1.0,1.0
+honeymoon,popularity,8,5,0.0,0.0,0.0,0.0
+honeymoon,seeded_random,8,5,0.4,0.25,0.2,0.36005461457723403
+island,masked_content,7,5,1.0,0.7142857142857143,1.0,1.0
+island,full_content,7,5,1.0,0.7142857142857143,1.0,1.0
+island,popularity,7,5,0.0,0.0,0.0,0.0
+island,seeded_random,7,5,0.0,0.0,0.0,0.0
+nature,masked_content,20,5,0.8,0.2,0.76,0.8539316501572937
+nature,full_content,20,5,1.0,0.25,1.0,1.0
+nature,popularity,20,5,0.0,0.0,0.0,0.0
+nature,seeded_random,20,5,0.0,0.0,0.0,0.0
+offbeat,masked_content,21,1,0.0,0.0,0.0,0.0
+offbeat,full_content,21,5,0.4,0.09523809523809523,0.14666666666666667,0.30078518014914984
+offbeat,popularity,21,5,0.0,0.0,0.0,0.0
+offbeat,seeded_random,21,5,0.2,0.047619047619047616,0.1,0.21398626473452756
+offbeat hill,masked_content,5,5,0.4,0.4,0.27999999999999997,0.4703652827859579
+offbeat hill,full_content,5,5,1.0,1.0,1.0,1.0
+offbeat hill,popularity,5,5,0.0,0.0,0.0,0.0
+offbeat hill,seeded_random,5,5,0.0,0.0,0.0,0.0
+photography,masked_content,33,5,0.4,0.06060606060606061,0.16666666666666666,0.3156484524795145
+photography,full_content,33,5,0.8,0.12121212121212122,0.5433333333333333,0.6608397947263839
+photography,popularity,33,5,0.4,0.06060606060606061,0.4,0.5531464700081437
+photography,seeded_random,33,5,0.0,0.0,0.0,0.0
+pilgrimage,masked_content,7,5,0.8,0.5714285714285714,0.76,0.8539316501572937
+pilgrimage,full_content,7,5,1.0,0.7142857142857143,1.0,1.0
+pilgrimage,popularity,7,5,0.2,0.14285714285714285,0.1,0.21398626473452756
+pilgrimage,seeded_random,7,5,0.0,0.0,0.0,0.0
+short break,masked_content,18,5,0.2,0.05555555555555555,0.04,0.13120507751234178
+short break,full_content,18,5,1.0,0.2777777777777778,1.0,1.0
+short break,popularity,18,5,0.2,0.05555555555555555,0.2,0.3391602052736161
+short break,seeded_random,18,5,0.4,0.1111111111111111,0.14666666666666667,0.30078518014914984
+slow travel,masked_content,5,1,0.2,0.2,0.2,0.3391602052736161
+slow travel,full_content,5,5,1.0,1.0,1.0,1.0
+slow travel,popularity,5,5,0.0,0.0,0.0,0.0
+slow travel,seeded_random,5,5,0.0,0.0,0.0,0.0
+spiritual,masked_content,18,5,0.8,0.2222222222222222,0.5433333333333333,0.6608397947263839
+spiritual,full_content,18,5,1.0,0.2777777777777778,1.0,1.0
+spiritual,popularity,18,5,0.8,0.2222222222222222,0.5433333333333333,0.6608397947263839
+spiritual,seeded_random,18,5,0.4,0.1111111111111111,0.3,0.48522855511632257
+trekking,masked_content,6,5,0.6,0.5,0.4533333333333333,0.639945385422766
+trekking,full_content,6,5,0.6,0.5,0.6,0.7227265726449519
+trekking,popularity,6,5,0.0,0.0,0.0,0.0
+trekking,seeded_random,6,5,0.0,0.0,0.0,0.0
+waterfalls,masked_content,7,5,0.6,0.42857142857142855,0.6,0.7227265726449519
+waterfalls,full_content,7,5,0.8,0.5714285714285714,0.8,0.8687949224876582
+waterfalls,popularity,7,5,0.0,0.0,0.0,0.0
+waterfalls,seeded_random,7,5,0.4,0.2857142857142857,0.16666666666666666,0.3156484524795145
+wildlife,masked_content,8,5,0.6,0.375,0.35333333333333333,0.5147714448836774
+wildlife,full_content,8,5,0.8,0.5,0.76,0.8539316501572937
+wildlife,popularity,8,5,0.0,0.0,0.0,0.0
+wildlife,seeded_random,8,5,0.0,0.0,0.0,0.0
