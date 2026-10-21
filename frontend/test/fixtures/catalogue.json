@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": 5,
+      "name": "Agra",
+      "state": "Uttar Pradesh",
+      "region": "North India",
+      "description": "World-famous Taj Mahal views at sunrise and sunset.",
+      "interests": [
+        "heritage",
+        "photography",
+        "short break"
+      ],
+      "best_seasons": [
+        "Winter",
+        "Late Autumn"
+      ],
+      "accessibility": "Easy",
+      "popularity": 10,
+      "duration": {
+        "minimum": 1.0,
+        "ideal": 2.0,
+        "maximum": 3
+      },
+      "daily_cost": {
+        "low": 1400,
+        "high": 2800,
+        "currency": "INR",
+        "tier": "budget"
+      },
+      "attractions": [
+        "Taj Mahal",
+        "Agra Fort",
+        "Mehtab Bagh",
+        "Itmad-ud-Daulah (Baby Taj)"
+      ],
+      "activities": [
+        "Sunrise Taj Mahal visit",
+        "Fort tours",
+        "Yamuna riverside views",
+        "Heritage walks"
+      ],
+      "coordinates": {
+        "latitude": 27.1767,
+        "longitude": 78.0081
+      },
+      "duplicate_review": false
+    },
+    {
+      "id": 39,
+      "name": "Varanasi (Kashi)",
+      "state": "Uttar Pradesh",
+      "region": "North India",
+      "description": "One of the world’s oldest living cities with intense spiritual rituals along Ganga ghats and maze-like old lanes.",
+      "interests": [
+        "pilgrimage",
+        "spiritual",
+        "heritage",
+        "photography"
+      ],
+      "best_seasons": [
+        "Winter",
+        "Post-monsoon"
+      ],
+      "accessibility": "Easy",
+      "popularity": 10,
+      "duration": {
+        "minimum": 2.0,
+        "ideal": 3.0,
+        "maximum": 5
+      },
+      "daily_cost": {
+        "low": 1150,
+        "high": 2800,
+        "currency": "INR",
+        "tier": "budget"
+      },
+      "attractions": [
+        "Dashashwamedh and Assi Ghats",
+        "Ganga Aarti",
+        "Kashi Vishwanath Temple corridor",
+        "Boat rides on Ganga",
+        "Old city lanes"
+      ],
+      "activities": [
+        "Sunrise/sunset boat rides",
+        "Evening Aarti at main ghats",
+        "Temple darshan",
+        "Heritage and food walks"
+      ],
+      "coordinates": {
+        "latitude": 25.3176,
+        "longitude": 82.9739
+      },
+      "duplicate_review": true
+    }
+  ],
+  "meta": {
+    "total": 93,
+    "page": 1,
+    "limit": 2
+  }
+}

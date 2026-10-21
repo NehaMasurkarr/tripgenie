@@ -1,0 +1,55 @@
+{
+  "data": {
+    "destination_id": 1,
+    "destination_name": "Goa",
+    "days": [
+      {
+        "day": 1,
+        "title": "Baga Beach",
+        "attractions": [
+          "Baga Beach",
+          "Fort Aguada"
+        ],
+        "activities": [
+          "Beach hopping"
+        ]
+      },
+      {
+        "day": 2,
+        "title": "Calangute Beach",
+        "attractions": [
+          "Calangute Beach",
+          "Dudhsagar Falls"
+        ],
+        "activities": [
+          "Water sports"
+        ]
+      },
+      {
+        "day": 3,
+        "title": "Old Goa Churches",
+        "attractions": [
+          "Old Goa Churches",
+          "Spice Plantations"
+        ],
+        "activities": [
+          "Temple and church visits"
+        ]
+      }
+    ],
+    "estimated_cost": {
+      "low": 4200,
+      "high": 8400,
+      "currency": "INR",
+      "tier": "budget"
+    },
+    "source_itinerary": "Day 1: Panjim & Old Goa churches; Day 2: North Goa beaches (Baga, Calangute, Aguada); Day 3: South Goa (Colva, Palolem); Day 4: Dudhsagar Falls & spice plantation; Day 5: Leisure, river cruise, shopping.",
+    "warnings": [
+      "A catalogue-based draft: ordering is not route-optimized. Confirm opening hours, transport, permits, and current prices.",
+      "Cost ranges are daily catalogue estimates multiplied by days; per-person assumptions and long-distance travel costs are not verified."
+    ],
+    "considerations": "Very crowded and expensive in Christmas–New Year week; respect dress codes in churches and temples.",
+    "permits": "Not required"
+  },
+  "meta": {}
+}

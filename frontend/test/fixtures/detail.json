@@ -1,0 +1,73 @@
+{
+  "data": {
+    "id": 1,
+    "name": "Goa",
+    "state": "Goa",
+    "region": "West India",
+    "description": "Indo-Portuguese heritage, vibrant nightlife, spice plantations, waterfall excursions",
+    "interests": [
+      "beach",
+      "culture",
+      "food",
+      "nightlife",
+      "wellness",
+      "photography"
+    ],
+    "best_seasons": [
+      "Winter",
+      "Post-Monsoon"
+    ],
+    "accessibility": "Easy",
+    "popularity": 9,
+    "duration": {
+      "minimum": 2.0,
+      "ideal": 5.0,
+      "maximum": 10
+    },
+    "daily_cost": {
+      "low": 1400,
+      "high": 2800,
+      "currency": "INR",
+      "tier": "budget"
+    },
+    "attractions": [
+      "Baga Beach",
+      "Calangute Beach",
+      "Old Goa Churches",
+      "Fort Aguada",
+      "Dudhsagar Falls",
+      "Spice Plantations"
+    ],
+    "activities": [
+      "Beach hopping",
+      "Water sports",
+      "Temple and church visits",
+      "Ayurveda spas",
+      "Nightlife",
+      "River cruise"
+    ],
+    "coordinates": {
+      "latitude": 15.3,
+      "longitude": 73.8
+    },
+    "duplicate_review": false,
+    "food_scene": "Excellent seafood, Goan cuisine, beach shacks, many vegetarian and international options.",
+    "safety_notes": "Generally safe; occasional petty theft near crowded beaches and nightlife areas.",
+    "special_considerations": "Very crowded and expensive in Christmas–New Year week; respect dress codes in churches and temples.",
+    "permits_required": false,
+    "permits_details": "Not required",
+    "suggested_itinerary": "Day 1: Panjim & Old Goa churches; Day 2: North Goa beaches (Baga, Calangute, Aguada); Day 3: South Goa (Colva, Palolem); Day 4: Dudhsagar Falls & spice plantation; Day 5: Leisure, river cruise, shopping.",
+    "last_updated": "2026-01-12",
+    "data_sources": [
+      "web:185",
+      "web:186",
+      "web:188",
+      "web:189",
+      "web:192"
+    ],
+    "avoid_seasons": [
+      "Peak Monsoon"
+    ]
+  },
+  "meta": {}
+}

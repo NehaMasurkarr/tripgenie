@@ -1,0 +1,93 @@
+{
+  "seed": 42,
+  "source_sha256": "3e360a2c9687de7f33febdf21ec868c67b2c94e74788b87453fd0d1ca8d4d44d",
+  "destination_profiles": 93,
+  "masked_interest_queries": 20,
+  "retrieval_means": {
+    "full_content": {
+      "precision_at_5": 0.8800000000000001,
+      "recall_at_5": 0.4705975384264858,
+      "ap_at_5": 0.8460000000000001,
+      "ndcg_at_5": 0.8907078120165437
+    },
+    "masked_content": {
+      "precision_at_5": 0.54,
+      "recall_at_5": 0.28359159115738064,
+      "ap_at_5": 0.44000000000000006,
+      "ndcg_at_5": 0.5446061510194193
+    },
+    "popularity": {
+      "precision_at_5": 0.13999999999999999,
+      "recall_at_5": 0.04290574922153869,
+      "ap_at_5": 0.1,
+      "ndcg_at_5": 0.14905594997385993
+    },
+    "seeded_random": {
+      "precision_at_5": 0.11000000000000001,
+      "recall_at_5": 0.0479093567251462,
+      "ap_at_5": 0.058166666666666665,
+      "ndcg_at_5": 0.10804658110865355
+    }
+  },
+  "preference_means": {
+    "content": {
+      "ndcg_at_5": 0.6679075731529293,
+      "preference_agreement": 0.47446236559139787,
+      "interest_coverage": 0.4806451612903226,
+      "budget_upper_fit": 0.13978494623655913,
+      "season_fit": 0.42592592592592593,
+      "duration_range_fit": 0.8193548387096774,
+      "region_diversity": 0.4989247311827957,
+      "duplicate_count": 0.0,
+      "self_count": 0.0
+    },
+    "hybrid": {
+      "ndcg_at_5": 0.8660455938009526,
+      "preference_agreement": 0.6027777777777779,
+      "interest_coverage": 0.4956989247311828,
+      "budget_upper_fit": 0.2645161290322581,
+      "season_fit": 0.9,
+      "duration_range_fit": 0.8860215053763442,
+      "region_diversity": 0.4838709677419355,
+      "duplicate_count": 0.0,
+      "self_count": 0.0
+    },
+    "popularity": {
+      "ndcg_at_5": 0.5038357843748855,
+      "preference_agreement": 0.3871863799283154,
+      "interest_coverage": 0.11075268817204302,
+      "budget_upper_fit": 0.25591397849462366,
+      "season_fit": 0.19629629629629633,
+      "duration_range_fit": 0.8731182795698925,
+      "region_diversity": 0.210752688172043,
+      "duplicate_count": 0.0,
+      "self_count": 0.0
+    }
+  },
+  "catalogue_coverage": {
+    "content": 0.989247311827957,
+    "hybrid": 0.8602150537634409,
+    "popularity": 0.06451612903225806
+  },
+  "latency_ms": {
+    "content": {
+      "p50": 2.1687920670956373,
+      "p95": 2.7615495957434173
+    },
+    "hybrid": {
+      "p50": 5.4282089695334435,
+      "p95": 6.614850182086229
+    },
+    "popularity": {
+      "p50": 0.4793340340256691,
+      "p95": 0.5933081731200217
+    }
+  },
+  "limitations": [
+    "Metadata-derived weak labels, not user relevance judgments.",
+    "Full-content labels and hybrid interest matching include target tags: preference agreement is not independent accuracy.",
+    "Masked content excludes explicit trip tags, names, and geography but descriptive wording may still reveal the labels.",
+    "Synthetic profiles derive from source metadata; no user ratings or interaction data are invented.",
+    "Latency is local sequential warm-model timing, not a production load benchmark."
+  ]
+}

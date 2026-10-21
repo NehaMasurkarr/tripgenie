@@ -1,0 +1,184 @@
+{
+  "source": "data/india_tourism_dataset.json",
+  "source_sha256": "6bd466a668ccc80b3b21f37677a400b206deab043764dfa0d9057b8376b12051",
+  "output": "data/processed/india_tourism_processed.json",
+  "source_records": 100,
+  "processed_records": 100,
+  "processed_columns": 138,
+  "duplicate_groups": 7,
+  "duplicate_records": 14,
+  "duplicate_policy": "Preserve every source entry and ID; compare and flag name + state/location groups; no merge or removal.",
+  "missing_policy": "Retained unknown fields remain null; derived text uses empty strings and missing indicators; no statistical imputation.",
+  "missing_value_audit": [
+    {
+      "id": 2,
+      "field_path": "average_temperature.monsoon",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 31,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 32,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 49,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 50,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 61,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 62,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 63,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    },
+    {
+      "id": 88,
+      "field_path": "nearest_railway_station.distance_km",
+      "reason": "null/blank/sentinel"
+    }
+  ],
+  "budget_audit": [
+    {
+      "tier": "budget_category",
+      "mismatched_entries": 0
+    },
+    {
+      "tier": "mid_range_category",
+      "mismatched_entries": 3
+    },
+    {
+      "tier": "luxury_category",
+      "mismatched_entries": 11
+    }
+  ],
+  "region_aliases": {
+    "North East India": "Northeast India"
+  },
+  "trip_type_aliases": {
+    "cultural": "culture",
+    "waterfall": "waterfalls",
+    "short treks": "short trek",
+    "backpacker": "backpacking"
+  },
+  "audience_aliases": {
+    "couples": "couple",
+    "families": "family",
+    "families with kids": "family with kids",
+    "history buffs": "history buff",
+    "slow travelers": "slow travellers"
+  },
+  "text_cleaning": "NFKC, casefold, underscores to spaces, punctuation to spaces, whitespace collapse; retain Unicode letters and numbers.",
+  "cost_units": "Undocumented in source; no currency or per-person assumptions applied.",
+  "feature_contract": {
+    "semantic_text": {
+      "column": "tfidf_text",
+      "source_fields": [
+        "destination_name",
+        "state",
+        "region",
+        "trip_types_clean",
+        "primary_attractions_clean",
+        "activities_available_clean",
+        "unique_experiences",
+        "hidden_gems_clean",
+        "local_culture",
+        "food_scene"
+      ]
+    },
+    "identity_and_review": [
+      "id",
+      "destination_name",
+      "destination_review_key",
+      "duplicate_destination_flag",
+      "duplicate_group_size"
+    ],
+    "numeric": [
+      "coordinates.latitude",
+      "coordinates.longitude",
+      "altitude_m",
+      "popularity_score",
+      "safety_rating",
+      "minimum_days",
+      "ideal_days",
+      "maximum_days",
+      "nearest_airport.distance_km",
+      "nearest_railway_station.distance_km",
+      "nearest_major_city.distance_km",
+      "budget_category.total_daily_low",
+      "budget_category.total_daily_high",
+      "budget_category.daily_midpoint",
+      "budget_category.daily_range_width",
+      "mid_range_category.total_daily_low",
+      "mid_range_category.total_daily_high",
+      "mid_range_category.daily_midpoint",
+      "mid_range_category.daily_range_width",
+      "luxury_category.total_daily_low",
+      "luxury_category.total_daily_high",
+      "luxury_category.daily_midpoint",
+      "luxury_category.daily_range_width"
+    ],
+    "categorical": [
+      "state",
+      "region",
+      "accessibility"
+    ],
+    "multi_label": [
+      "trip_types_clean",
+      "ideal_for_clean",
+      "best_seasons_clean",
+      "avoid_seasons_clean",
+      "activities_available_clean",
+      "primary_attractions_clean",
+      "hidden_gems_clean",
+      "accommodation_types_clean",
+      "language_spoken_clean"
+    ],
+    "boolean_constraints": [
+      "permits_required"
+    ],
+    "missing_indicators": [
+      "coordinates.latitude_missing",
+      "coordinates.longitude_missing",
+      "altitude_m_missing",
+      "popularity_score_missing",
+      "safety_rating_missing",
+      "minimum_days_missing",
+      "ideal_days_missing",
+      "maximum_days_missing",
+      "nearest_airport.distance_km_missing",
+      "nearest_railway_station.distance_km_missing",
+      "nearest_major_city.distance_km_missing",
+      "tfidf_text_missing"
+    ],
+    "quality_flags": [
+      "budget_category.total_components_mismatch",
+      "mid_range_category.total_components_mismatch",
+      "luxury_category.total_components_mismatch"
+    ],
+    "future_training_note": "Fit vectorizers, statistical imputers, encoders, and scalers on training data only. No fitting occurs here."
+  },
+  "versions": {
+    "python": "3.12.7",
+    "pandas": "3.0.6",
+    "numpy": "2.5.4"
+  }
+}

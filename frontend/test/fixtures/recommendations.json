@@ -1,0 +1,433 @@
+{
+  "data": [
+    {
+      "destination": {
+        "id": 30,
+        "name": "Varkala",
+        "state": "Kerala",
+        "region": "South India",
+        "description": "Beach below dramatic laterite cliffs with a line of cafes and wellness centres on top.",
+        "interests": [
+          "beach",
+          "cliff scenery",
+          "wellness",
+          "backpacking",
+          "short break"
+        ],
+        "best_seasons": [
+          "Winter",
+          "Post-monsoon"
+        ],
+        "accessibility": "Moderate",
+        "popularity": 7,
+        "duration": {
+          "minimum": 2.0,
+          "ideal": 3.0,
+          "maximum": 5
+        },
+        "daily_cost": {
+          "low": 1300,
+          "high": 2500,
+          "currency": "INR",
+          "tier": "budget"
+        },
+        "attractions": [
+          "Varkala Cliff and North Cliff promenade",
+          "Papanasam Beach",
+          "Sivagiri Mutt (nearby ashram)",
+          "Edava lakes and backwater area (short drive)"
+        ],
+        "activities": [
+          "Cliff-top walks",
+          "Beach time and swimming (conditions permitting)",
+          "Yoga and Ayurveda treatments",
+          "Cafe and restaurant visits"
+        ],
+        "coordinates": {
+          "latitude": 8.7379,
+          "longitude": 76.716
+        },
+        "duplicate_review": false
+      },
+      "score": 0.5779369664968039,
+      "breakdown": {
+        "content": {
+          "score": 0.09312322165601325,
+          "weight": 0.3,
+          "contribution": 0.027936966496803974
+        },
+        "popularity": {
+          "score": 0.5,
+          "weight": 0.1,
+          "contribution": 0.05
+        },
+        "interests": {
+          "score": 0.5,
+          "weight": 0.2,
+          "contribution": 0.1
+        },
+        "budget": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "season": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "duration": {
+          "score": 1.0,
+          "weight": 0.1,
+          "contribution": 0.1
+        }
+      }
+    },
+    {
+      "destination": {
+        "id": 1,
+        "name": "Goa",
+        "state": "Goa",
+        "region": "West India",
+        "description": "Indo-Portuguese heritage, vibrant nightlife, spice plantations, waterfall excursions",
+        "interests": [
+          "beach",
+          "culture",
+          "food",
+          "nightlife",
+          "wellness",
+          "photography"
+        ],
+        "best_seasons": [
+          "Winter",
+          "Post-Monsoon"
+        ],
+        "accessibility": "Easy",
+        "popularity": 9,
+        "duration": {
+          "minimum": 2.0,
+          "ideal": 5.0,
+          "maximum": 10
+        },
+        "daily_cost": {
+          "low": 1400,
+          "high": 2800,
+          "currency": "INR",
+          "tier": "budget"
+        },
+        "attractions": [
+          "Baga Beach",
+          "Calangute Beach",
+          "Old Goa Churches",
+          "Fort Aguada",
+          "Dudhsagar Falls",
+          "Spice Plantations"
+        ],
+        "activities": [
+          "Beach hopping",
+          "Water sports",
+          "Temple and church visits",
+          "Ayurveda spas",
+          "Nightlife",
+          "River cruise"
+        ],
+        "coordinates": {
+          "latitude": 15.3,
+          "longitude": 73.8
+        },
+        "duplicate_review": false
+      },
+      "score": 0.5768338119486773,
+      "breakdown": {
+        "content": {
+          "score": 0.11166826205114687,
+          "weight": 0.3,
+          "contribution": 0.03350047861534406
+        },
+        "popularity": {
+          "score": 0.8333333333333334,
+          "weight": 0.1,
+          "contribution": 0.08333333333333334
+        },
+        "interests": {
+          "score": 0.5,
+          "weight": 0.2,
+          "contribution": 0.1
+        },
+        "budget": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "season": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "duration": {
+          "score": 0.6,
+          "weight": 0.1,
+          "contribution": 0.06
+        }
+      }
+    },
+    {
+      "destination": {
+        "id": 19,
+        "name": "Ooty (Udhagamandalam)",
+        "state": "Tamil Nadu",
+        "region": "South India",
+        "description": "Classic South Indian hill station with heritage train and tea estates.",
+        "interests": [
+          "hill station",
+          "family",
+          "nature",
+          "short break",
+          "heritage rail"
+        ],
+        "best_seasons": [
+          "Summer",
+          "Winter",
+          "Shoulder months"
+        ],
+        "accessibility": "Moderate",
+        "popularity": 8,
+        "duration": {
+          "minimum": 2.0,
+          "ideal": 3.0,
+          "maximum": 4
+        },
+        "daily_cost": {
+          "low": 1450,
+          "high": 2800,
+          "currency": "INR",
+          "tier": "budget"
+        },
+        "attractions": [
+          "Ooty Lake",
+          "Botanical Gardens",
+          "Doddabetta Peak",
+          "Nilgiri Mountain Railway",
+          "Tea estates (Coonoor route)"
+        ],
+        "activities": [
+          "Boat rides",
+          "Toy-train ride (Nilgiri Mountain Railway)",
+          "Viewpoint visits",
+          "Tea estate tours"
+        ],
+        "coordinates": {
+          "latitude": 11.4064,
+          "longitude": 76.6932
+        },
+        "duplicate_review": false
+      },
+      "score": 0.5762943260094372,
+      "breakdown": {
+        "content": {
+          "score": 0.032092197809235126,
+          "weight": 0.3,
+          "contribution": 0.009627659342770538
+        },
+        "popularity": {
+          "score": 0.6666666666666666,
+          "weight": 0.1,
+          "contribution": 0.06666666666666667
+        },
+        "interests": {
+          "score": 0.5,
+          "weight": 0.2,
+          "contribution": 0.1
+        },
+        "budget": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "season": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "duration": {
+          "score": 1.0,
+          "weight": 0.1,
+          "contribution": 0.1
+        }
+      }
+    },
+    {
+      "destination": {
+        "id": 26,
+        "name": "Pondicherry (Puducherry)",
+        "state": "Puducherry",
+        "region": "South India",
+        "description": "French-influenced architecture and cafes by the Bay of Bengal, with spiritual centres nearby.",
+        "interests": [
+          "beach",
+          "culture",
+          "café town",
+          "short break"
+        ],
+        "best_seasons": [
+          "Winter",
+          "Post-monsoon"
+        ],
+        "accessibility": "Easy",
+        "popularity": 7,
+        "duration": {
+          "minimum": 2.0,
+          "ideal": 3.0,
+          "maximum": 4
+        },
+        "daily_cost": {
+          "low": 1400,
+          "high": 2700,
+          "currency": "INR",
+          "tier": "budget"
+        },
+        "attractions": [
+          "French Quarter (White Town)",
+          "Seafront Promenade",
+          "Sri Aurobindo Ashram",
+          "Nearby Auroville (separate township)",
+          "Rock Beach"
+        ],
+        "activities": [
+          "Cycling/walking in heritage streets",
+          "Beachfront walks",
+          "Café and restaurant visits",
+          "Ashram and Matrimandir (Auroville) visits"
+        ],
+        "coordinates": {
+          "latitude": 11.9139,
+          "longitude": 79.8145
+        },
+        "duplicate_review": false
+      },
+      "score": 0.5674035116610874,
+      "breakdown": {
+        "content": {
+          "score": 0.058011705536958016,
+          "weight": 0.3,
+          "contribution": 0.017403511661087404
+        },
+        "popularity": {
+          "score": 0.5,
+          "weight": 0.1,
+          "contribution": 0.05
+        },
+        "interests": {
+          "score": 0.5,
+          "weight": 0.2,
+          "contribution": 0.1
+        },
+        "budget": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "season": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "duration": {
+          "score": 1.0,
+          "weight": 0.1,
+          "contribution": 0.1
+        }
+      }
+    },
+    {
+      "destination": {
+        "id": 8,
+        "name": "Coorg (Kodagu)",
+        "state": "Karnataka",
+        "region": "South India",
+        "description": "Staying in coffee estate homestays and misty hills.",
+        "interests": [
+          "nature",
+          "coffee estates",
+          "family",
+          "short break"
+        ],
+        "best_seasons": [
+          "Winter",
+          "Post-Monsoon"
+        ],
+        "accessibility": "Moderate",
+        "popularity": 7,
+        "duration": {
+          "minimum": 2.0,
+          "ideal": 3.0,
+          "maximum": 4
+        },
+        "daily_cost": {
+          "low": 1450,
+          "high": 2800,
+          "currency": "INR",
+          "tier": "budget"
+        },
+        "attractions": [
+          "Coffee plantations",
+          "Abbey Falls",
+          "Raja's Seat",
+          "Dubare Elephant Camp",
+          "Talakaveri"
+        ],
+        "activities": [
+          "Plantation walks",
+          "Short treks",
+          "Elephant interaction (check ethics)",
+          "Scooter/jeep tours"
+        ],
+        "coordinates": {
+          "latitude": 12.3375,
+          "longitude": 75.8069
+        },
+        "duplicate_review": true
+      },
+      "score": 0.5608474026301606,
+      "breakdown": {
+        "content": {
+          "score": 0.03615800876720217,
+          "weight": 0.3,
+          "contribution": 0.01084740263016065
+        },
+        "popularity": {
+          "score": 0.5,
+          "weight": 0.1,
+          "contribution": 0.05
+        },
+        "interests": {
+          "score": 0.5,
+          "weight": 0.2,
+          "contribution": 0.1
+        },
+        "budget": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "season": {
+          "score": 1.0,
+          "weight": 0.15,
+          "contribution": 0.15
+        },
+        "duration": {
+          "score": 1.0,
+          "weight": 0.1,
+          "contribution": 0.1
+        }
+      }
+    }
+  ],
+  "meta": {
+    "model": "hybrid",
+    "count": 5,
+    "warnings": [
+      "Scores express catalogue preference matching, not verified suitability or user satisfaction."
+    ]
+  }
+}

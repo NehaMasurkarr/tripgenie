@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*.csv
+data/*.parquet
+
+# Flutter
+.dart_tool/
+.flutter-plugins*
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local validation outputs
+artifacts/
+coverage/
+.coverage
